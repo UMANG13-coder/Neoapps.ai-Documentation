@@ -1,12 +1,11 @@
 ---
-id: getting-started
-title: Getting Started with Your NeoApps.AI
-sidebar_position: 2
+id: GettingStarted
+title: GettingStarted
 ---
 
 # Getting Started with Your NeoApps.AI
 
-Welcome to the first steps of using the NeoApps.AI! This guide will walk you through signing up, navigating the interface, starting a new project, and adding your first components.
+- Welcome to the first steps of using the NeoApps.AI! This guide will walk you through signing up, navigating the interface, starting a new project, and adding your first components.
 
 ## Sign Up and Log In
 

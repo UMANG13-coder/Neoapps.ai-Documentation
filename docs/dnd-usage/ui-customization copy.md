@@ -1,6 +1,7 @@
 ---
 id: advanced-configuration
 title: Advanced Configuration for Technical Users
+sidebar_position: 7
 ---
 
 # Advanced Configuration for Technical Users

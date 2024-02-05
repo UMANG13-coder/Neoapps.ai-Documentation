@@ -1,6 +1,7 @@
 ---
 id: enhancing-user-experience
 title: Enhancing User Experience
+sidebar_position: 3
 ---
 
 # Enhancing User Experience

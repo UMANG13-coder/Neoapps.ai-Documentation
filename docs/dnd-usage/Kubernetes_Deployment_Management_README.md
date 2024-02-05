@@ -1,6 +1,7 @@
 ---
 id: Kubernetes_Deployment_Management_README
 title: Kubernetes Deployment Management for Trial and Subscribed Services
+sidebar_position: 6
 ---
 
 # Kubernetes Deployment Management for Trial and Subscribed Services
