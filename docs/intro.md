@@ -14,7 +14,7 @@ sidebar_position: 1
 
 -   The [Neoapps.AI](https://neoapps.ai/) is an innovative platform that provides a drag-and-drop interface for building applications. It simplifies the app development process, making it accessible to non-technical users while offering robust features that cater to the needs of professional developers.
 
-![Docusaurus logo](/img/neoapps_ai_logo.png)
+<!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
 ## Key Features
 
@@ -29,7 +29,7 @@ sidebar_position: 1
 - **Customization and Branding**
     - Personalize your app's look to match your brand. Tailor the appearance without hassle to create a unique identity for your application.
 
-![Docusaurus logo](/img/neoapps_ai_logo.png)
+<!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
 ## Why Choose the NeoApps.AI?
 
@@ -43,7 +43,7 @@ sidebar_position: 1
 
     - **Cost Savings** : NeoApps.AI is your budget-friendly buddy. By cutting down on development time, it also slashes costs. It's like getting a great deal on your favorite stuff!
 
-![Docusaurus logo](/img/neoapps_ai_logo.png)
+<!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
 ## Benefits for Non-Technical Users
 

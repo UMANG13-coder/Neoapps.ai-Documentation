@@ -1,7 +1,7 @@
 ---
 id: limitations
 title: Limitations
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 - While the NeoApps.AI offers a wide range of functionalities, there are certain limitations that users should be aware of to set realistic expectations and plan their development process accordingly.

@@ -6,6 +6,19 @@ sidebar_position: 1
 
 ## Getting Started
 
+### Quick Overview of Project Creation 
+
+-   Login into the portal using username and password.
+-   For crating and project first buy the suitable subscription for your requirements.
+-   Create a new project by clicking on "New Project" button in dashboard section . 
+-   Go into the project section and create a database for your project.
+-   Then start generating backend by clicking on backend section.
+-   After the generation of backend you can start generating frontend as well as workflows.
+-   After generating all the parts you can start testing on different generating sections.
+
+### Click on the given links for more detailed overview
+
+- [API Overview](./api_overview.md)
 - [Overview of Components creation and configuration](./Componenets_creation&configurations.md).
 - [Overview of Advanced Components configuration for Developers](./advanced_configuration.md).
 
@@ -21,18 +34,6 @@ sidebar_position: 1
 This section will guide you through taking your app's customization to the next level by tweaking the frontend code.
 
 -   [UI Customization](../dnd-usage/ui-customization.md)
-
-### Understand Your API
-
-The platform's API plays a crucial role in extending the functionality of your applications, allowing for seamless data exchange and integration with other services.
-
-### API Overview
-
-- **Endpoints**: A comprehensive list of available API endpoints.
-- **Authentication**: Methods for securing your API requests.
-- **Rate Limits**: Information on request limits to ensure fair usage.
-
-Dive into the details of how to effectively utilize the API to enhance your app's capabilities.
 
 ### Understand Your Architecture
 

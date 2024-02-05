@@ -1,7 +1,7 @@
 ---
 id: Componenets_creation&configurations
 title: Components creation and configuration
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 Quick overview of Componenets creation and Configurations : 

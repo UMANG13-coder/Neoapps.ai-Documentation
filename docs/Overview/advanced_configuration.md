@@ -1,7 +1,7 @@
 ---
 id: advanced_configuration
 title: Advanced configuration for Technical Users
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 -   For developers and technical users, dive deeper into component integration and advanced configurations to enhance app functionality.
