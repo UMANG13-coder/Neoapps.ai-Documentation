@@ -4,7 +4,7 @@ title: Advanced configuration for Technical Users
 sidebar_position: 4
 ---
 
--   For developers and technical users, dive deeper into component integration and advanced configurations to enhance app functionality.
+> For developers and technical users, dive deeper into component integration and advanced configurations to enhance app functionality.
 -   **Component Integration**
     - Understand how to utilize the CRUD component for direct interaction with database tables and manage dynamic data.
 -   **Enhancing Create Mode with Advanced Data Entry and Validation Configurations**

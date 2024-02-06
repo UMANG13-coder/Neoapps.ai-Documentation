@@ -1,6 +1,7 @@
 ---
 id: view-and-edit-modes
 title: View and Edit Modes
+sidebar_position: 4
 ---
 
 # View and Edit Modes

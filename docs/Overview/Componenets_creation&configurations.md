@@ -4,7 +4,7 @@ title: Components creation and configuration
 sidebar_position: 3
 ---
 
-Quick overview of Componenets creation and Configurations : 
+> Quick overview of Componenets creation and Configurations : 
 -   **Working with Components**  
     - Learn how to add and configure components within your app, enhancing its functionality and user experience.
 -   **Adding a Data Component** 

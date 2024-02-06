@@ -1,4 +1,8 @@
-# Private - Increasing Server Capacity for Microservices
+---
+id: private
+title: Private - Increasing Server Capacity for Microservices
+sidebar_position: 8
+---
 
 Scaling your infrastructure is crucial for handling increased load on your microservices. Follow these steps to add more consumers and deployers.
 

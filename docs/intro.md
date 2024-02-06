@@ -6,13 +6,13 @@ sidebar_position: 1
 
 # Introduction to the NeoApps.AI
 
--   Welcome to the NeoApps.AI , An innovative and empowering solution revolutionizing the landscape of app development.
+> Welcome to the [Neoapps.AI](https://neoapps.ai/) , An innovative and empowering solution revolutionizing the landscape of app development.
 
--   This powerful tool tool is meticulously crafted to democratize the app development process, making it accessible to users of all technical proficiency levels. With NeoApps.AI, individuals can effortlessly create, customize, and deploy applications without the need to write a single line of code.
+> This powerful tool tool is meticulously crafted to democratize the app development process, making it accessible to users of all technical proficiency levels. With NeoApps.AI, individuals can effortlessly create, customize, and deploy applications without the need to write a single line of code.
 
 ## What is NeoApps.AI?
 
--   The [Neoapps.AI](https://neoapps.ai/) is an innovative platform that provides a drag-and-drop interface for building applications. It simplifies the app development process, making it accessible to non-technical users while offering robust features that cater to the needs of professional developers.
+> The [Neoapps.AI](https://neoapps.ai/) is an innovative platform that provides a drag-and-drop interface for building applications. It simplifies the app development process, making it accessible to non-technical users while offering robust features that cater to the needs of professional developers.
 
 <!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
@@ -33,31 +33,31 @@ sidebar_position: 1
 
 ## Why Choose the NeoApps.AI?
 
-- Choosing the NeoApps.AI is like choosing a super-smart friend for your app projects! Here's why it's awesome:
+> Choosing the [Neoapps.AI](https://neoapps.ai/) is like choosing a super-smart friend for your app projects! Here's why it's awesome:
 
-    - **Flexibility** : NeoApps.AI gives you the freedom to create your dream apps without being a coding wizard. It's like having a magic wand for your ideas!
+    - **Flexibility** : [Neoapps.AI](https://neoapps.ai/) gives you the freedom to create your dream apps without being a coding wizard. It's like having a magic wand for your ideas!
 
-    - **Efficiency** : Say goodbye to long development times. NeoApps.AI speeds up the process, letting you prototype and launch your apps at lightning speed. It's like taking the express lane for app creation!
+    - **Efficiency** : Say goodbye to long development times. [Neoapps.AI](https://neoapps.ai/) speeds up the process, letting you prototype and launch your apps at lightning speed. It's like taking the express lane for app creation!
 
-    - **Innovation** : Be the cool innovator with NeoApps.AI. It encourages fresh ideas and creativity, helping you stand out in the app game. It's like having a secret sauce for staying ahead!
+    - **Innovation** : Be the cool innovator with [Neoapps.AI](https://neoapps.ai/). It encourages fresh ideas and creativity, helping you stand out in the app game. It's like having a secret sauce for staying ahead!
 
-    - **Cost Savings** : NeoApps.AI is your budget-friendly buddy. By cutting down on development time, it also slashes costs. It's like getting a great deal on your favorite stuff!
+    - **Cost Savings** : [Neoapps.AI](https://neoapps.ai/) is your budget-friendly buddy. By cutting down on development time, it also slashes costs. It's like getting a great deal on your favorite stuff!
 
 <!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
 ## Benefits for Non-Technical Users
 
--   For non-technical users, NeoApps.AI brings a range of benefits tailored to simplify and enhance the app development experience:
+> For non-technical users, [Neoapps.AI](https://neoapps.ai/) brings a range of benefits tailored to simplify and enhance the app development experience:
 
-    - **Ease of Use** : Enjoy a user-friendly interface designed for simplicity. Whether you're tech-savvy or not, NeoApps.AI ensures effortless navigation, making app creation accessible to everyone.
+    - **Ease of Use** : Enjoy a user-friendly interface designed for simplicity. Whether you're tech-savvy or not, [Neoapps.AI](https://neoapps.ai/) ensures effortless navigation, making app creation accessible to everyone.
 
-    - **Rapid Prototyping** : Swiftly turn your app concepts into prototypes. NeoApps.AI empowers you to validate ideas quickly and gather valuable feedback, facilitating a dynamic and iterative development process.
+    - **Rapid Prototyping** : Swiftly turn your app concepts into prototypes. [Neoapps.AI](https://neoapps.ai/) empowers you to validate ideas quickly and gather valuable feedback, facilitating a dynamic and iterative development process.
 
-    - **Cost Efficiency** : Save on development costs with NeoApps.AI. The platform offers pre-built components, reducing the need for specialized labor or extensive coding expertise. It's a cost-effective solution that doesn't compromise on quality.
+    - **Cost Efficiency** : Save on development costs with [Neoapps.AI](https://neoapps.ai/). The platform offers pre-built components, reducing the need for specialized labor or extensive coding expertise. It's a cost-effective solution that doesn't compromise on quality.
 
 ## Getting Started 
 
-- Embark on your app development journey with NeoApps.AI by following these easy steps:
+> Embark on your app development journey with [Neoapps.AI](https://neoapps.ai/) by following these easy steps:
 
 1.    **Choose a Template**
         - Pick a template that aligns with what you want your app to do. It's like selecting a starting point tailored to your needs.
@@ -72,12 +72,12 @@ sidebar_position: 1
 
 ## Next Steps
 
--   Ready to start making your own app? Awesome! Check out our "Getting Started" guide for clear, step-by-step instructions. Whether you're building a business app, working on a personal project, or just curious about the world of no-code development, NeoApps.AI has got you covered. It's everything you need to turn your ideas into real, working apps.
+> Ready to start making your own app? Awesome! Check out our "Getting Started" guide for clear, step-by-step instructions. Whether you're building a business app, working on a personal project, or just curious about the world of no-code development, [Neoapps.AI](https://neoapps.ai/) has got you covered. It's everything you need to turn your ideas into real, working apps.
 
--   If you want to learn more, take a look at different sections for more details. The possibilities are wide open, and NeoApps.AI is here to make your journey into app creation exciting and straightforward! Let's bring those ideas to life!
+> If you want to learn more, take a look at different sections for more details. The possibilities are wide open, and [Neoapps.AI](https://neoapps.ai/) is here to make your journey into app creation exciting and straightforward! Let's bring those ideas to life!
 
-    - [Getting Started with Your NeoApps.AI](./getting-started)
+    - [Getting Started with Your [Neoapps.AI](https://neoapps.ai/)](./getting-started)
     - [Working with Components](./dnd-usage/working-with-components.md)
 <!-- - [Advanced Configuration for Technical Users](./dnd-usage/) -->
 
-- We're excited to see what you build with the NeoApps.AI!
+> We're excited to see what you build with the [Neoapps.AI](https://neoapps.ai/)!
