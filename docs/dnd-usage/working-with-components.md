@@ -23,7 +23,7 @@ sidebar_position: 1
 
     > And just like that, you've successfully added a new component to your growing app! Remember, you can add multiple components, arrange them freely on the canvas, and customize their properties to truly make them your own.
 
-![Docusaurus logo](/img/neoapps_ai_logo.png)
+<!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
 ### Fine-Tune Your App: Dive into Component Configuration
 
@@ -38,7 +38,7 @@ sidebar_position: 1
 - **Styling: Express Your Signature Touch** 
     > Finally, unleash your inner designer! Personalize the look and feel of your component with a wide range of styling options. Adjust colors, fonts, spacing, and more to create a cohesive and visually appealing user experience.
 
-![Docusaurus logo](/img/neoapps_ai_logo.png)
+<!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
 ### Building Blocks for Your App: Easy-to-Use Components
 
@@ -63,7 +63,7 @@ sidebar_position: 1
 3. **Make Sure Your App Fits All Screens:** 
     - Just like your clothes should fit you well, your app should look good on any phone, tablet, or computer. Check how your components adjust to different screen sizes regularly. This makes sure everyone has a great experience using your app.
 
-![Docusaurus logo](/img/neoapps_ai_logo.png)
+<!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
 ### Next Steps
 

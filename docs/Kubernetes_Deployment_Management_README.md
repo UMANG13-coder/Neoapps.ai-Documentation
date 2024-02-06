@@ -1,18 +1,16 @@
 ---
 id: Kubernetes_Deployment_Management_README
-title: Kubernetes Deployment Management for Trial
+title: Kubernetes Deployment Management and Subscribed Services
 sidebar_position: 7
 ---
 
-# Kubernetes Deployment Management for Trial and Subscribed Services
+> This guide provides a comprehensive overview of the procedures involved in managing trial and subscribed deployments within a Kubernetes environment. It offers step-by-step instructions for various tasks, including the cleanup of expired trial deployments and the efficient management of node pools. By following the outlined process, users can ensure the seamless operation of their Kubernetes clusters, optimize resource allocation, and maintain the integrity of their deployments.
 
-This guide outlines the process for managing trial and subscribed deployments within a Kubernetes environment, including the cleanup of expired trial deployments and the management of node pools.
+### Overview
 
-## Overview
+> The system differentiates between trial and subscribed deployments, automatically handling the cleanup of expired trials and ensuring subscribed services are efficiently managed across node pools.
 
-The system differentiates between trial and subscribed deployments, automatically handling the cleanup of expired trials and ensuring subscribed services are efficiently managed across node pools.
-
-## Prerequisites
+### Prerequisites
 
 - Kubernetes cluster
 - `kubectl` configured to communicate with your cluster
@@ -22,15 +20,13 @@ The system differentiates between trial and subscribed deployments, automaticall
 
 ### Warning Users
 
-Inform users about the trial policy via the application's UI:
+> Inform users about the trial policy via the application's UI:
 
-```
-Notice: Trial servers are reset after 6 hours of inactivity. Please redeploy if necessary. No data loss will occur.
-```
+> **Notice**: Trial servers are reset after 6 hours of inactivity. Please redeploy if necessary. No data loss will occur. 
 
 ### Deployment Tags
 
-Deployments are tagged according to their type and environment:
+> Deployments are tagged according to their type and environment:
 
 - Trial Development: `trial-dev`
 - Trial Production: `trial-prod`
@@ -39,7 +35,7 @@ Deployments are tagged according to their type and environment:
 
 ### Organizing Deployments
 
-Deployments are organized in namespaces corresponding to their type:
+> Deployments are organized in namespaces corresponding to their type:
 
 - `trial`
 - `subscribed`
@@ -135,6 +131,6 @@ Deployments are organized in namespaces corresponding to their type:
   kubectl get all -n <namespace>
   ```
 
-## Conclusion
+### Conclusion
 
-This guide provides the foundation for managing trial and subscribed deployments within Kubernetes, leveraging `kubectl` for deployment and node management. Adjust and expand these instructions as necessary to fit your specific infrastructure and operational needs.
+> This guide provides the foundation for managing trial and subscribed deployments within Kubernetes, leveraging `kubectl` for deployment and node management. Adjust and expand these instructions as necessary to fit your specific infrastructure and operational needs.
