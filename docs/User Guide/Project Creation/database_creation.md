@@ -24,4 +24,3 @@ sidebar_position: 2
 ![Open phpmyadmin](../../../static/img/open_phpmyadmin.gif)
 
 > You can login in phpmyadmin by entering generated Username and password . 
-
