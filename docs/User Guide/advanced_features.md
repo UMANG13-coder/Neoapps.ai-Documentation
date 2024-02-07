@@ -1,7 +1,7 @@
 ---
 id: advanced_features
 title: Advanced Features
-sidebar_position: 6
+sidebar_position: 3
 ---
 
 ### Upgrade Your Experience:

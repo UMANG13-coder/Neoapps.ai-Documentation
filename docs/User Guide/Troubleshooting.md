@@ -1,7 +1,7 @@
 ---
 id: Troubleshooting
 title: Troubleshooting
-sidebar_position: 7
+sidebar_position: 4
 ---
 
 **This section provides resources to help you navigate challenges and keep your projects running smoothly.**
