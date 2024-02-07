@@ -4,7 +4,7 @@ title: Roadmap
 sidebar_position: 5
 ---
 
-> The development roadmap outlines upcoming features, improvements, and enhancements planned for the NeoApps.AI. This section gives users insight into the platform's future direction and what they can expect in terms of new capabilities.
+> The development roadmap outlines upcoming features, improvements, and enhancements planned for the [NeoApps.ai](https://neoapps.ai/). This section gives users insight into the platform's future direction and what they can expect in terms of new capabilities.
 
     - **Q1 Enhancements**: Introduction of new components, improved UI customization options.
     - **Q2 Updates**: Enhanced API integrations, performance optimizations for high-volume applications.

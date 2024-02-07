@@ -7,7 +7,7 @@ sidebar_position: 1
 ## Getting Started
 ## Quick Overview of Project Creation 
 
-> NeoApps.AI empowers you to take your app ideas from concept to reality, offering a user-friendly platform that streamlines the entire development process. Whether you're a seasoned developer or a budding entrepreneur, NeoApps.AI provides the tools and guidance you need to bring your vision to life. Here's a glimpse into what awaits you:
+> [NeoApps.ai](https://neoapps.ai/) empowers you to take your app ideas from concept to reality, offering a user-friendly platform that streamlines the entire development process. Whether you're a seasoned developer or a budding entrepreneur, [NeoApps.ai](https://neoapps.ai/) provides the tools and guidance you need to bring your vision to life. Here's a glimpse into what awaits you:
 
 ### Effortless Onboarding:
 > **Seamless Login** : Access the platform with your username and password, and embark on your app-building adventure.
@@ -34,9 +34,9 @@ sidebar_position: 1
 > **Continuous Improvement** : Leverage testing insights to identify areas for improvement and polish your app to perfection.
 
 ### Beyond the Basics:
-> NeoApps.AI's resources and documentation provide in-depth guidance and explore additional features to unlock your app's full potential.
+> [NeoApps.ai](https://neoapps.ai/)'s resources and documentation provide in-depth guidance and explore additional features to unlock your app's full potential.
     
-> Don't be afraid to experiment and explore! NeoApps.AI is your platform to turn your innovative ideas into reality.
+> Don't be afraid to experiment and explore! [NeoApps.ai](https://neoapps.ai/) is your platform to turn your innovative ideas into reality.
 
 ### Click on the given links for more detailed overview
 
@@ -59,7 +59,7 @@ This section will guide you through taking your app's customization to the next 
 
 ### Understand Your Architecture
 
-Gaining insight into the architectural design of the NeoApps.AI is essential for understanding how applications are structured and run within the platform.
+Gaining insight into the architectural design of the [NeoApps.ai](https://neoapps.ai/) is essential for understanding how applications are structured and run within the platform.
 
 - **System Components**: Overview of the core components that make up the platform.
 - **Data Handling**: How data is managed and stored.

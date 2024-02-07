@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ### Getting Started  
 
-> Create mode in the NeoApps.AI allows users to add new entries to their database, making it a crucial feature for applications that require data input. This guide will walk you through setting up and customizing the create mode for your application.
+> Create mode in the [NeoApps.ai](https://neoapps.ai/) allows users to add new entries to their database, making it a crucial feature for applications that require data input. This guide will walk you through setting up and customizing the create mode for your application.
 
 ### Setting Up Create Mode
 
@@ -51,7 +51,7 @@ sidebar_position: 3
 
 > Before finalizing your create mode configuration, it's essential to preview and test the functionality:
 
-1. Use the preview feature in the NeoApps.AI to simulate the user experience.
+1. Use the preview feature in the [NeoApps.ai](https://neoapps.ai/) to simulate the user experience.
 2. Test the form by entering data, ensuring that all validations work as expected.
 
 <!-- ![Previewing and Testing](/img/neoapps_ai_logo.png) -->

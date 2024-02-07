@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Getting Started
 
-> Creating an application isn't just about functionality; it's also about ensuring a positive and engaging user experience (UX). The NeoApps.AI offers various ways to enhance UX, from intuitive navigation to personalized UI elements. This guide explores key strategies to improve your app’s usability and aesthetic appeal.
+> Creating an application isn't just about functionality; it's also about ensuring a positive and engaging user experience (UX). The [NeoApps.ai](https://neoapps.ai/) offers various ways to enhance UX, from intuitive navigation to personalized UI elements. This guide explores key strategies to improve your app’s usability and aesthetic appeal.
 
 ### Get Around Your App Smoothly: Navigation Tips!
 
@@ -21,7 +21,7 @@ sidebar_position: 6
 
 ### User-Friendly Presentation Tips
 
-> To improve data presentation in NeoApps.AI, consider implementing these strategies for enhanced user experience:
+> To improve data presentation in [NeoApps.ai](https://neoapps.ai/), consider implementing these strategies for enhanced user experience:
 
 1. **Data Filtering and Sorting:** 
     - Enable users to refine and organize data according to their preferences.

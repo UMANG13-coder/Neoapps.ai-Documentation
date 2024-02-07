@@ -5,7 +5,7 @@ sidebar_position: 4
 ---
 
 
-> The NeoApps.AI offers powerful functionalities through view and edit modes, allowing users to display data and make updates to existing records. This guide covers setting up these modes for your application components.
+> The [NeoApps.ai](https://neoapps.ai/) offers powerful functionalities through view and edit modes, allowing users to display data and make updates to existing records. This guide covers setting up these modes for your application components.
 
 ### Configuring View Mode
 

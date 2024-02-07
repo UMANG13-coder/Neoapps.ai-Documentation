@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ### Getting Started
 
-> Bring your app ideas to life with NeoApps.AI components! These pre-built building blocks let you quickly add functionalities and elements, from basic text and images to interactive forms and data tables. Perfect for beginners and technical users alike, components save you time and effort while ensuring a polished and professional look. Explore our library and discover buttons, menus, charts, social media feeds, and more! Start building your dream app today!
+> Bring your app ideas to life with [NeoApps.ai](https://neoapps.ai/) components! These pre-built building blocks let you quickly add functionalities and elements, from basic text and images to interactive forms and data tables. Perfect for beginners and technical users alike, components save you time and effort while ensuring a polished and professional look. Explore our library and discover buttons, menus, charts, social media feeds, and more! Start building your dream app today!
 
 ### Enhance Your App with Adding Easy Drag-and-Drop Components
 
-> Adding functionality and elements to your NeoApps.AI app is a breeze with our intuitive component system. Here's how to seamlessly integrate components into your app's design:
+> Adding functionality and elements to your [NeoApps.ai](https://neoapps.ai/) app is a breeze with our intuitive component system. Here's how to seamlessly integrate components into your app's design:
 
 - **Navigate and Explore:**
     > Start by venturing into the "Components" section, conveniently located on the left sidebar of your app builder interface. This treasure trove holds a variety of components waiting to be unleashed.
@@ -27,7 +27,7 @@ sidebar_position: 1
 
 ### Fine-Tune Your App: Dive into Component Configuration
 
-> NeoApps.AI components are more than just building blocks; they're customizable elements ready to adapt to your unique vision. Let's explore how to configure them and unlock their full potential:
+> [NeoApps.ai](https://neoapps.ai/) components are more than just building blocks; they're customizable elements ready to adapt to your unique vision. Let's explore how to configure them and unlock their full potential:
 
 - **General Settings: The Foundation**
     > Start by laying the groundwork with general settings. Define the component's size, position it perfectly on the canvas, and control its visibility to ensure it appears when needed.
@@ -42,7 +42,7 @@ sidebar_position: 1
 
 ### Building Blocks for Your App: Easy-to-Use Components
 
-> Think of building your app like putting together Lego bricks! NeoApps.AI provides building blocks called "components" to add different features and elements. Here are some popular ones:
+> Think of building your app like putting together Lego bricks! [NeoApps.ai](https://neoapps.ai/) provides building blocks called "components" to add different features and elements. Here are some popular ones:
 - **Text Component**
      - The text component allows you to add headings, paragraphs, and links to your app. It's essential for providing information and guidance to your users.
 - **Image Component**
@@ -69,9 +69,9 @@ sidebar_position: 1
 
 > Now that you're familiar with adding and configuring components, explore the following guides to dive deeper into creating dynamic and interactive applications:
 
-- [Customizing Your App's Look with Easy Configuration](/docs/dnd-usage/ui-customization)
-- [Customize Create Mode Configuration](/docs/dnd-usage/create-mode-configuration.md)
-- [Customize View and Edit Mode Configuration](/docs/dnd-usage/view-and-edit-modes.md)
-- [Advanced Configuration for Technical Users](/docs/dnd-usage/advanced-configuration)
+- [Customizing Your App's Look with Easy Configuration](./ui-customization)
+- [Customize Create Mode Configuration](./create-mode-configuration.md)
+- [Customize View and Edit Mode Configuration](./view-and-edit-modes.md)
+- [Advanced Configuration for Technical Users](./advanced-configuration)
 
-> Components are a powerful way to build and customize your app without writing code. With the wide variety of components available in the NeoApps.AI, you can design almost any type of application. We encourage you to experiment with different components and configurations to discover the full potential of your app.
+> Components are a powerful way to build and customize your app without writing code. With the wide variety of components available in the [NeoApps.ai](https://neoapps.ai/), you can design almost any type of application. We encourage you to experiment with different components and configurations to discover the full potential of your app.
