@@ -1,6 +1,6 @@
 ---
 id: nodered
-title: How to Open & configure flows in Node-red?
+title: How to Open Node-red from portal?
 sidebar_position: 1
 ---
 
@@ -9,8 +9,6 @@ sidebar_position: 1
 > You can refer this below link for workflow generation in Node-red. This workflow generator will generate default and simple flow in Node-red and deploy 
 
 - [Nodered Workflow Generation](../User%20Guide/Project%20Creation/workflow_generation.md)
-
-### How to Open Node-red?
 
 > After Workflow genration and deployment there is one button 'Node-red' click on the button to open Node-red .
 
@@ -30,5 +28,8 @@ sidebar_position: 1
 
 - [Node-red Documentation](https://nodered.org/docs/)
 
-### How to create simple flow in Node-red?
+### Next Step
 
+> After becoming acquainted with Node-RED, you can proceed to configure customized workflows tailored to their specific needs. Node-RED's intuitive interface and extensive library of nodes enable seamless creation and automation of workflows, empowering users to optimize processes according to their unique requirements.
+
+> The next section provides an introductory glimpse into configuring Node-RED flows, offering users a preliminary understanding of workflow customization
