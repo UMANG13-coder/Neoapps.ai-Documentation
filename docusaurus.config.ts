@@ -12,7 +12,6 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
@@ -56,8 +55,42 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig: {
+
+        algolia: {
+          // The application ID provided by Algolia
+          appId: 'YOUR_APP_ID',
+    
+          // Public API key: it is safe to commit it
+          apiKey: 'YOUR_SEARCH_API_KEY',
+    
+          indexName: 'YOUR_INDEX_NAME',
+    
+          // Optional: see doc section below
+          contextualSearch: true,
+    
+          // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+          //externalUrlRegex: 'external\\.com|domain\\.com',
+    
+          // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+          // replaceSearchResultPathname: {
+          //   from: '/docs/', // or as RegExp: /\/docs\//
+          //   to: '/',
+          // },
+    
+          // Optional: Algolia search parameters
+          //searchParameters: {},
+    
+          // Optional: path for search page that enabled by default (`false` to disable it)
+         // searchPagePath: 'search',
+    
+          //... other Algolia params
+        },
+
+
+
+
     // Replace with your project's social card
     // image: 'img/docusaurus-social-card.jpg',
     navbar: {
@@ -85,12 +118,21 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+      
         {
           title: 'Docs',
           items: [
             {
               label: 'Tutorial',
               to: '/intro',
+            },
+            {
+              label: 'Getting Started',
+              to: '/category/getting-started-with-neoappsai',
+            },
+            {
+              label: 'Kubernetes Deployment Management',
+              to: '/Kubernetes_Deployment_Management_README',
             },
           ],
         },
@@ -111,20 +153,47 @@ const config: Config = {
         //     },
         //   ],
         // },
-        // {
-        //   title: 'More',
-        //   items: [
-        //     {
-        //       label: 'LinkedIn',
-        //       to: '/blog',
-        //     },
-        //     {
-        //       label: 'Product Website',
-        //       href: 'NeoApps.AI',
-        //     },
-        //   ],
-        // },
+        {
+          title: 'Useful Links',
+          items: [
+            {
+              label: 'FAQs',
+              to: 'https://neoapps.ai/helpcenter-faqs',
+            },
+            {
+              label: 'Terms of Services',
+              to: 'https://neoapps.ai/page-terms-of-use',
+            },
+            {
+              label: 'Privacy Policy',
+              to: 'https://neoapps.ai/page-privacy',
+            },
+          ],
+        },
+        {
+          title: 'Social',
+          items: [
+            {
+              label: 'LinkedIn',
+              to: 'https://www.linkedin.com/showcase/neoapps-ai/',
+            },
+          ]
+        },
+         {
+          title: 'More',
+          items: [
+            {
+              label: 'NeoApps.AI',
+              to: 'https://neoapps.ai/',
+            },
+          ],
+        },
       ],
+      logo: {
+        alt: 'NeoApps.AI Logo',
+        //src: 'img/neoapps_ai_logo.png',
+        src: 'img/neoapps_ai_logo_dark.png',
+      },
       copyright: `Copyright © ${new Date().getFullYear()} Neopric, Inc.`,
     },
     prism: {
