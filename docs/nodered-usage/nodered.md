@@ -30,3 +30,5 @@ sidebar_position: 1
 
 - [Node-red Documentation](https://nodered.org/docs/)
 
+### How to create simple flow in Node-red?
+
