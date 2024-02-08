@@ -65,7 +65,7 @@ sidebar_position: 4
 
 > With view and edit modes configured, your app will be much more interactive and user-friendly. Consider exploring additional functionalities to enhance your application further:
 
-- [Enhancing User Experience](/docs/dnd-usage/enhancing-user-experience)
-- [Advanced Configuration for Technical Users](/docs/dnd-usage/advanced-configuration)
+- [Enhancing User Experience](./enhancing-user-experience)
+- [Advanced Configuration for Technical Users](./advanced-configuration)
 
 > View and edit modes are integral to creating dynamic applications that allow users to interact with the data meaningfully. By following this guide, you can ensure these functionalities are well-implemented in your application.

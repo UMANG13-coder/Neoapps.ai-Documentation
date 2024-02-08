@@ -78,9 +78,9 @@ sidebar_position: 2
 
 > UI customization is a powerful way to differentiate your app and ensure a pleasant user experience. After personalizing your app's UI, consider exploring the following to further refine your app:
 
-- [Customize Create Mode Configuration](/docs/dnd-usage/create-mode-configuration.md)
-- [Customize View and Edit Mode Configuration](/docs/dnd-usage/view-and-edit-modes.md)
-- [Advanced Configuration for Technical Users](/docs/dnd-usage/advanced-configuration)
-- [Enhancing User Experience](/docs/dnd-usage/enhancing-user-experience)
+- [Customize Create Mode Configuration](./create-mode-configuration.md)
+- [Customize View and Edit Mode Configuration](./view-and-edit-modes.md)
+- [Advanced Configuration for Technical Users](./advanced-configuration)
+- [Enhancing User Experience](./enhancing-user-experience)
 
 > Personalizing the UI of your application not only strengthens your brand presence but also significantly impacts user engagement and satisfaction.

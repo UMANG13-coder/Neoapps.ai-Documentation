@@ -7,7 +7,7 @@ sidebar_position: 1
 ## Sign up 
 > Go to the [NeoApps.ai](https://neoapps.ai/)'s website and click on the "Sign Up" button. Fill out the registration form with your details.
 
-![Sign up](../../static/img/Signup%20Animation.gif)
+![Sign up](../../static/img/signup.gif)
 
 ## Verify Email
 > Check your email for a verification link and click on it to activate your account.

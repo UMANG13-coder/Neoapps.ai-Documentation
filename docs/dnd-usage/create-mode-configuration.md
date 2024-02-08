@@ -60,7 +60,7 @@ sidebar_position: 3
 
 With create mode configured, you're one step closer to having a fully functional application. Explore the following topics to continue building and enhancing your app:
 
-- [View and Edit Modes](/docs/dnd-usage/view-and-edit-modes)
-- [Advanced Configuration for Technical Users](/docs/dnd-usage/advanced-configuration)
+- [View and Edit Modes](./view-and-edit-modes.md)
+- [Advanced Configuration for Technical Users](./advanced-configuration.md)
 
 Create mode is a powerful feature that allows your application to interact dynamically with your database. By following the steps outlined in this guide, you can ensure that users have a smooth and efficient experience when adding new data to your application.

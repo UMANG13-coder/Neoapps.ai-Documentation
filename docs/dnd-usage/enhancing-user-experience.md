@@ -81,6 +81,6 @@ sidebar_position: 6
 
 > Enhancing user experience is an ongoing process that requires attention to detail and a deep understanding of your users' needs. Explore additional resources and continue to refine your app based on user feedback and analytics:
 
-- [Advanced Configuration for Technical Users](/docs/dnd-usage/advanced-configuration)
+- [Advanced Configuration for Technical Users](./advanced-configuration)
 
 > By focusing on user experience, you can create an app that not only meets the functional requirements but also delights and engages your users.
