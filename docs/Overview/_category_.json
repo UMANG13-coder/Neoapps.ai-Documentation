@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "The NeoApps.AI platform is a user-friendly solution crafted to streamline and democratize app development. Its key features, including a drag-and-drop interface, pre-built templates, and an extensive component library, aim to simplify the entire app creation process. Whether you're a seasoned developer or a newcomer, NeoApps.AI provides a straightforward approach to transform your app ideas into reality with ease. This accessible and intuitive tool is designed for everyone, ensuring that the app development journey is both efficient and user-friendly."
+    "description": "The NeoApps.AI platform is a user-friendly solution crafted to streamline and democratize app development. Its key features, including a database designer, drag-and-drop interface, visual designer for complex login (NodeRed), and microservices architecture, aim to simplify the entire app creation process. Whether you're a seasoned developer or a newcomer, NeoApps.AI provides a straightforward approach to transform your app ideas into reality with ease. This accessible and intuitive tool is designed for everyone, ensuring that the app development journey is both efficient and user-friendly."
   }
 }

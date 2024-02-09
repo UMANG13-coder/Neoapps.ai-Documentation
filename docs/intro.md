@@ -8,7 +8,7 @@ sidebar_position: 1
 
 > Welcome to the [Neoapps.ai](https://neoapps.ai/) , An innovative and empowering solution revolutionizing the landscape of app development.
 
-> This powerful tool tool is meticulously crafted to democratize the app development process, making it accessible to users of all technical proficiency levels. With Neoapps.ai, individuals can effortlessly create, customize, and deploy applications without the need to write a single line of code.
+> This powerful tool is meticulously crafted to democratize the app development process, making it accessible to users of all technical proficiency levels. With Neoapps.ai, individuals can effortlessly create, customize, and deploy applications without the need to write a single line of code.
 
 ## What is Neoapps.ai?
 
@@ -20,10 +20,10 @@ sidebar_position: 1
 
 - **Drag-and-Drop Interface**
     - Build your apps effortlessly by dragging and dropping elements with a simple and intuitive interface.
-- **Pre-built Templates**
-    - Kickstart your project using ready-made templates that you can easily customize to fit your needs.
-- **Visual Workflow Configuration**
-    - Design your app's logic and workflows visually, no coding required. Connect the dots easily with a clear and intuitive process.
+- **Database Flexibility: Bring, Create, Connect**
+    - Unlock the power of your data with the ability to bring your own script, create a new database, or seamlessly connect to existing databases.
+- **Visual Workflow Configuration using Node-red**
+    - Design your app's logic and workflows visually in Node-red, no coding required. Connect the dots easily with a clear and intuitive process.
 - **Comprehensive Component Library**
     - Access a variety of components for displaying data, capturing user input, and adding interactive features to your app.
 - **Customization and Branding**
@@ -53,7 +53,7 @@ sidebar_position: 1
 
     - **Rapid Prototyping** : Swiftly turn your app concepts into prototypes. [Neoapps.ai](https://neoapps.ai/) empowers you to validate ideas quickly and gather valuable feedback, facilitating a dynamic and iterative development process.
 
-    - **Cost Efficiency** : Save on development costs with [Neoapps.ai](https://neoapps.ai/). The platform offers pre-built components, reducing the need for specialized labor or extensive coding expertise. It's a cost-effective solution that doesn't compromise on quality.
+    - **Cost Efficiency** : Save on development costs with [Neoapps.ai](https://neoapps.ai/). **The platform offers pre-built components, reducing the need for specialized labor or extensive coding expertise**. It's a cost-effective solution that doesn't compromise on quality.
 
 ## Getting Started 
 
@@ -64,7 +64,7 @@ sidebar_position: 1
 2.   **Customize Your App**
         - Make your app unique by dragging and dropping components. Adjust the look and feel effortlessly using customization options.
 3.   **Define Workflows**
-        - Set up how your app behaves by defining logical workflows. No coding required – just connect the dots visually.
+        - Set up how your app behaves by defining logical workflows. No coding required – just connect the dots using Node-red.
 4.   **Preview and Test**
         - See your app in action with the built-in preview feature. Test it in real-time to ensure everything works seamlessly.
 5.   **Deploy**

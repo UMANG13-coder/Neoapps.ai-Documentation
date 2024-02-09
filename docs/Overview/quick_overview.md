@@ -4,7 +4,6 @@ title: Quick Overview
 sidebar_position: 1
 ---
 
-## Getting Started
 ## Quick Overview of Project Creation 
 
 > [NeoApps.ai](https://neoapps.ai/) empowers you to take your app ideas from concept to reality, offering a user-friendly platform that streamlines the entire development process. Whether you're a seasoned developer or a budding entrepreneur, [NeoApps.ai](https://neoapps.ai/) provides the tools and guidance you need to bring your vision to life. Here's a glimpse into what awaits you:
@@ -17,7 +16,7 @@ sidebar_position: 1
 ### Laying the Foundation:
 > **Project Creation** : Click "New Project" to establish a dedicated space for your app to flourish.
     
-> **Database Establishment** : Within the project section, create a robust database, the core structure that holds your app's vital information.
+> **Database Establishment** : Create a robust database, bring your own script (Make sure it aligns with our guidelines ~ **Provide link**) or connect to your existing database.
 
 ### Building the Engine:
 > **Backend Generation** : Define the app's internal logic and functionality through the intuitive backend generation process. Imagine it as the powerful engine driving your app's operations.
@@ -32,11 +31,6 @@ sidebar_position: 1
 > **Comprehensive Testing** : Ensure your app functions flawlessly by rigorously testing each generated section – backend, frontend, and workflows.
     
 > **Continuous Improvement** : Leverage testing insights to identify areas for improvement and polish your app to perfection.
-
-### Beyond the Basics:
-> [NeoApps.ai](https://neoapps.ai/)'s resources and documentation provide in-depth guidance and explore additional features to unlock your app's full potential.
-    
-> Don't be afraid to experiment and explore! [NeoApps.ai](https://neoapps.ai/) is your platform to turn your innovative ideas into reality.
 
 ### Click on the given links for more detailed overview
 
