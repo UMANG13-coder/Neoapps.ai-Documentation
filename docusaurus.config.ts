@@ -3,9 +3,9 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'NeoApps.AI - Documentation',
+  title: 'NeoApps Docs',
   // tagline: 'Create Apps with Generative AI',
-  // favicon: 'img/favicon.ico',
+  favicon: 'img/Favicon_neoapps.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -15,7 +15,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'Neoapps.ai', // Usually your repo name.
+  projectName: 'Neoapps', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -192,7 +192,7 @@ const config: Config = {
       logo: {
         alt: 'NeoApps.AI Logo',
         //src: 'img/neoapps_ai_logo.png',
-        src: 'img/neoapps_ai_logo_dark.png',
+        src: 'img/neoapps.ico',
       },
       copyright: `Copyright © ${new Date().getFullYear()} Neopric, Inc.`,
     },

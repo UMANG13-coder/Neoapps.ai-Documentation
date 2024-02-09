@@ -13,10 +13,11 @@ sidebar_position: 2
 > View all your projects and open the one you wish to work on.
 
 ## Account Settings 
-> In settings there are 3 sections - General , Billing and Security .
 
-> Under General Section user will be able to change the general setting of the profile.
+> Within the settings, there are three distinct sections: General, Billing, and Security.
 
-> Under the billing section user will be able to see the total projects and the money he/she is being charged. Also they will be able to update the card details .
+> In the General section, users can modify the general settings of their profile.
 
-> Under Security Section user will be able to change the credentials for login into the their portal.
+> In the Billing section, users can view the total number of projects and the corresponding charges. Additionally, they have the option to update their card details.
+
+> Within the Security section, users can adjust their login credentials for accessing their portal.
