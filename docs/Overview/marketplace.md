@@ -6,7 +6,7 @@ sidebar_position: 6
 
 # Pre-built Templates
 
-Accelerate your project development with our collection of ready-made templates. These templates offer a solid foundation that you can adapt and modify to meet the unique requirements of your project. Leverage the work of experienced developers and a wealth of documentation to streamline your application development process.
+> Accelerate your project development with our collection of ready-made templates. These templates offer a solid foundation that you can adapt and modify to meet the unique requirements of your project. Leverage the work of experienced developers and a wealth of documentation to streamline your application development process.
 
 ## Features and Benefits
 
@@ -18,7 +18,7 @@ Accelerate your project development with our collection of ready-made templates.
 
 ## Marketplace Updates
 
-Our marketplace is continually expanding, with new templates being added to cater to a broad spectrum of requirements. Whether you're looking for a starting point for your project or seeking inspiration, our marketplace is designed to provide valuable resources.
+> Our marketplace is continually expanding, with new templates being added to cater to a broad spectrum of requirements. Whether you're looking for a starting point for your project or seeking inspiration, our marketplace is designed to provide valuable resources.
 
 - **In Progress**: We are currently working on enriching our marketplace with predefined templates that offer a quick start for common project types. These templates are carefully curated to ensure they meet a high standard of quality and relevance.
 
@@ -28,6 +28,6 @@ Our marketplace is continually expanding, with new templates being added to cate
 
 ## Getting Started
 
-To begin, explore the marketplace and select a template that closely matches your project requirements. From there, you can purchase the template and use the provided documentation and files as a base for your custom application development. Remember, while our templates offer a significant head start, your innovation and customization will bring your unique vision to life.
+> To begin, explore the marketplace and select a template that closely matches your project requirements. From there, you can purchase the template and use the provided documentation and files as a base for your custom application development. Remember, while our templates offer a significant head start, your innovation and customization will bring your unique vision to life.
 
-Stay tuned for more updates on the marketplace and the exciting new templates we're adding to simplify your development process. Check our roadmap for insights into upcoming features and enhancements.
+> Stay tuned for more updates on the marketplace and the exciting new templates we're adding to simplify your development process. Check our roadmap for insights into upcoming features and enhancements.

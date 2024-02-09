@@ -13,6 +13,9 @@ sidebar_position: 4
 
 1. Select the component you wish to configure for viewing data.
 2. In the component's settings panel, locate the **Mode** option and select **View**.
+
+![Selecting View Mode](../../static/img/view_mode_selection.gif)
+
 3. Configure the data source to determine which data is displayed in the component.
 
 <!-- ![View Mode Configuration](/img/neoapps_ai_logo.png) -->

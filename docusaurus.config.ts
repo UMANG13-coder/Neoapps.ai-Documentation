@@ -105,7 +105,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Roadmap',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {

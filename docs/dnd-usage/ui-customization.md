@@ -1,7 +1,7 @@
 ---
 id: ui-customization
 title: UI Customization and Personalization
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ### Getting Started

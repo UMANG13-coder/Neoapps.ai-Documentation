@@ -1,7 +1,7 @@
 ---
 id: create-mode-configuration
 title: Create Mode Configuration
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 ### Getting Started  

@@ -1,7 +1,7 @@
 ---
 id: advanced-configuration
 title: Advanced Configuration for Technical Users
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 > For those who want to push the boundaries of what the [NeoApps.ai](https://neoapps.ai/) can do, advanced configuration options offer a way to incorporate custom code, integrate with external APIs, and manipulate data with sophisticated logic. This guide explores these capabilities, enabling technical users to fully leverage the platform's potential.
