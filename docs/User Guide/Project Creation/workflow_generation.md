@@ -1,12 +1,10 @@
 ---
 id: workflow_generation
 title: Nodered Workflow generation
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 > Generate Node-RED workflows.
-
-
 
 > Explore various uses of Node-RED workflows to connect your application to other apps/RESTful APIs.
 

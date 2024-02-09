@@ -1,7 +1,7 @@
 ---
 id: private
 title: How to Increase the Capacity of Server for Microservices?
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 > Scaling your infrastructure is crucial for handling increased load on your microservices. Follow these steps to add more consumers and deployers.
@@ -43,16 +43,17 @@ sidebar_position: 8
 
 #### Setting Alerts for Scaling
 
-- **Deployer and Consumer Scaling**: 
-   - Use cloud provider or third-party monitoring services to set alerts based on CPU, memory, or request rate.
-- **Hosted Agent Demand**: 
-   - Monitor your CI/CD pipeline execution times and queued jobs to decide when to increase hosted agents.
+- **Deployer and Consumer Scaling**:
+  - Use cloud provider or third-party monitoring services to set alerts based on CPU, memory, or request rate.
+- **Hosted Agent Demand**:
+  - Monitor your CI/CD pipeline execution times and queued jobs to decide when to increase hosted agents.
 
 #### Cleaning Up Resources
 
 #### For Unsubscribed Clients
 
 1. **Manual Kubernetes Cleanup**:
+
    - Run a cleanup pipeline manually within your CI/CD tool to remove resources (e.g., `kubectl delete ns <client-namespace>`).
 
 2. **Automate Cleanup**:
@@ -62,13 +63,13 @@ sidebar_position: 8
 
 - **Renewing SSL Certificates**
 
-   - SSL certificates must be renewed periodically to maintain the security of your microservices.
+  - SSL certificates must be renewed periodically to maintain the security of your microservices.
 
 - **Manual SSL Renewal Process**
 
-   - Log in to your SSL certificate provider.
-   - Navigate to your active certificates and select the one due for renewal.
-   - Follow the provider's process for renewal, which may involve re-verifying domain ownership.
-   - Once renewed, update your services with the new certificate details.
+  - Log in to your SSL certificate provider.
+  - Navigate to your active certificates and select the one due for renewal.
+  - Follow the provider's process for renewal, which may involve re-verifying domain ownership.
+  - Once renewed, update your services with the new certificate details.
 
 > Consider automating this process with tools like Certbot for Let's Encrypt certificates, which can automate renewals and installations.

@@ -1,7 +1,7 @@
 ---
 id: roadmap1
 title: Roadmap
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 > The development roadmap outlines upcoming features, improvements, and enhancements planned for the [NeoApps.ai](https://neoapps.ai/). This section gives users insight into the platform's future direction and what they can expect in terms of new capabilities.
