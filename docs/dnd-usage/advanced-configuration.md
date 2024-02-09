@@ -41,8 +41,3 @@ sidebar_position: 8
 
 <!-- ![Advanced Database Management](/img/neoapps_ai_logo.png) -->
 
-## Utilizing Webhooks and Integrations
-
-> Automate workflows and integrate with other platforms using webhooks:
-
-- **Setting Up Webhooks**: Configure web

@@ -26,8 +26,12 @@ sidebar_position: 4
 
 - **Column Selection**: 
     - Choose which columns of your data source are visible.
+
+    ![View Feild Changes](../../static/img/table_view_changes.gif)
+
 - **Formatting Options**: 
     - Apply formatting to better present your data, such as date formats or conditional styling.
+
 - **Sorting and Filtering**: 
     - Enable sorting and filtering options for users to easily navigate through the data.
 
