@@ -1,7 +1,6 @@
 ---
 id: common-draft
 title: Common Draft DND Usage
-sidebar_position: 9
 ---
 
 # Common Draft
