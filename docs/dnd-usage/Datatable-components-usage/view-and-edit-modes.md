@@ -1,33 +1,33 @@
 ---
 id: view-and-edit-modes
 title: View and Edit Modes
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 
 > The [NeoApps.ai](https://neoapps.ai/) offers powerful functionalities through view and edit modes, allowing users to display data and make updates to existing records. This guide covers setting up these modes for your application components.
 
-### Configuring View Mode
+## Configuring View Mode
 
 > View mode enables you to display data in your app. Here’s how to set it up:
 
 1. Select the component you wish to configure for viewing data.
 2. In the component's settings panel, locate the **Mode** option and select **View**.
 
-![Selecting View Mode](../../static/img/view_mode_selection.gif)
+![Selecting View Mode](../../../static/img/view_mode_selection.gif)
 
 3. Configure the data source to determine which data is displayed in the component.
 
 <!-- ![View Mode Configuration](/img/neoapps_ai_logo.png) -->
 
-### Customizing Data Display
+## Customizing Data Display
 
 > You can customize how data is displayed in view mode:
 
 - **Column Selection**: 
     - Choose which columns of your data source are visible.
 
-    ![View Feild Changes](../../static/img/table_view_changes.gif)
+    ![View Feild Changes](../../../static/img/table_view_changes.gif)
 
 - **Formatting Options**: 
     - Apply formatting to better present your data, such as date formats or conditional styling.
@@ -37,7 +37,7 @@ sidebar_position: 4
 
 <!-- ![Customizing Data Display](/img/neoapps_ai_logo.png) -->
 
-### Enabling Edit Mode
+## Enabling Edit Mode
 
 > Edit mode allows users to update existing records directly within your app:
 
@@ -47,7 +47,7 @@ sidebar_position: 4
 
 <!-- ![Enabling Edit Mode](/img/neoapps_ai_logo.png) -->
 
-### Implementing Inline Editing
+## Implementing Inline Editing
 
 > For a seamless user experience, you can implement inline editing:
 
@@ -58,7 +58,7 @@ sidebar_position: 4
 
 <!-- ![Implementing Inline Editing](/img/neoapps_ai_logo.png) -->
 
-### Testing View and Edit Functionalities
+## Testing View and Edit Functionalities
 
 > It's crucial to thoroughly test view and edit modes to ensure data integrity and user experience:
 
@@ -68,11 +68,12 @@ sidebar_position: 4
 
 <!-- ![Testing View and Edit Functionalities](/img/neoapps_ai_logo.png) -->
 
-### Next Steps
+## Next Steps
 
 > With view and edit modes configured, your app will be much more interactive and user-friendly. Consider exploring additional functionalities to enhance your application further:
 
-- [Enhancing User Experience](./enhancing-user-experience)
-- [Advanced Configuration for Technical Users](./advanced-configuration)
+- [Navigation Mode Configuration](./navigation-mode-configuration.md)
+- [Enhancing User Experience](../enhancing-user-experience)
+- [Advanced Configuration for Technical Users](../advanced-configuration)
 
 > View and edit modes are integral to creating dynamic applications that allow users to interact with the data meaningfully. By following this guide, you can ensure these functionalities are well-implemented in your application.

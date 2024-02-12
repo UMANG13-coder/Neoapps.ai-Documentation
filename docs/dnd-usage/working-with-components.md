@@ -54,7 +54,8 @@ sidebar_position: 2
 2. **Image Component** : Use the image component to add visuals to your app. You can upload images directly or reference them via URL.
 3.  **Form Components** : Form components like input fields, dropdowns, and buttons are crucial for capturing user input and facilitating interactions.
 4.  **Data Table** : The data table component displays data in a structured format, allowing users to view and interact with large datasets efficiently.
-5. **Custom Components** : For more advanced needs, you can create custom components using HTML/CSS or integrate third-party libraries.
+5.  **Chart Component** : The chart component is used for display different type of charts like bar, pie, line etc.. It Can be useful for showing data in different formats.
+6. **Custom Components** : For more advanced needs, you can create custom components using HTML/CSS or integrate third-party libraries.
 
 ### Building Your App Like a Pro: Top Tips for Using Components
 
