@@ -102,10 +102,14 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: '/Roadmap',
           position: 'left',
           label: 'Roadmap',
+        },
+        {
+          to: '/Change-log',
+          position: 'left',
+          label: 'Changelog',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {

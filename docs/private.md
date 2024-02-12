@@ -1,7 +1,7 @@
 ---
 id: private
 title: How to Increase the Capacity of Server for Microservices?
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 > Scaling your infrastructure is crucial for handling increased load on your microservices. Follow these steps to add more consumers and deployers.
