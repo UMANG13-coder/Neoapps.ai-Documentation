@@ -69,8 +69,6 @@ sidebar_position: 1
 
 -  Our interface features a "Select Value" dropdown offering default paths. Upon selection, only the chosen path activates the corresponding Node-RED workflow. To fully utilize this feature, users need to configure the flow and provide the requisite data for visualization in the chosen chart.
 
-## Next Step
+- If you want to add your custom path for trigger flow in node-red , In the upcoming session, we'll cover the option to include custom trigger paths for Node-RED flows. This feature allows users to add their unique pathways through Node-RED, enhancing flexibility. Additionally, we'll delve into detailed configurations for each chart type, providing comprehensive guidance for optimal setup.
 
-> After configuring the Chart component in the DnD builder, the next step involves setting up the flow for the chart component in Node-RED. This entails defining the data source, configuring data manipulation and formatting , and establishing communication between the DnD builder and Node-RED.
-
-- [Chart Component | Node-red Configuration](./chart-node-red-configuration.md)
+    - [Chart Component | Node-red Configuration](./chart-node-red-configuration.md)
