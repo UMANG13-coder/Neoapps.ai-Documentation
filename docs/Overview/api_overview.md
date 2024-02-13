@@ -12,7 +12,9 @@ sidebar_position: 2
 
 ### Understand Your API
 
->   The platform's API plays a crucial role in extending the functionality of your applications, allowing for seamless data exchange and integration with other services.
+> The platform's API plays a crucial role in extending the functionality of your applications, allowing for seamless data exchange and integration with other services.
+
+- [How to use API](../User%20Guide/api-testing.md)
 
 ### How to Use API / Test API with Bearer Token
 
@@ -28,7 +30,8 @@ sidebar_position: 2
 > Before integrating the API into your application, it's crucial to test its functionality. This section guides you through the process of testing API requests, recommending tools like Apache JMeter, and providing sample requests to help you get started quickly.
 
 - **API Testing Tools:**
-    - Explore our recommended tools for testing API requests, ensuring a smooth development and integration process.
+
+  - Explore our recommended tools for testing API requests, ensuring a smooth development and integration process.
 
 - **Sample Requests**:
-    - Accelerate your learning curve by reviewing examples of common API requests. These samples serve as a foundation for fetching data, updating records, and integrating external services into your application.
+  - Accelerate your learning curve by reviewing examples of common API requests. These samples serve as a foundation for fetching data, updating records, and integrating external services into your application.
