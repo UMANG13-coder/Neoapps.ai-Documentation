@@ -53,3 +53,24 @@ sidebar_position: 1
 #### 2. Complex Pie Chart
 
 ![Complex PieChart](../../../static/img/complex-piechart.png)
+
+
+## How to Use Chart Component in DnD ?
+
+> The **Barchart** component in the DnD builder provides a comprehensive range of chart types for data visualization needs. From line graphs to pie charts, users can effortlessly create visual representations of their data. Simply drag and drop the **Barchart** component onto your page to access a versatile toolkit for presenting and analyzing data with ease.
+
+![BarChart component](../../../static/img/barchart_dnd.gif)
+
+> **General Settings** : 
+
+![Barchart General Settings](../../../static/img/general_barchart_setting.png)
+
+- Here you can see there are two dropdowns. The first dropdown selects chart types for customizable visualization, while the second dropdown triggers data presentation in Node-RED via selected paths, optimizing user control and flexibility.
+
+-  Our interface features a "Select Value" dropdown offering default paths. Upon selection, only the chosen path activates the corresponding Node-RED workflow. To fully utilize this feature, users need to configure the flow and provide the requisite data for visualization in the chosen chart.
+
+## Next Step
+
+> After configuring the Chart component in the DnD builder, the next step involves setting up the flow for the chart component in Node-RED. This entails defining the data source, configuring data manipulation and formatting , and establishing communication between the DnD builder and Node-RED.
+
+- [Chart Component | Node-red Configuration](./chart-node-red-configuration.md)
