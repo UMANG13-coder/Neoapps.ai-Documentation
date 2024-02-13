@@ -33,7 +33,7 @@ sidebar_position: 4
 
 ![Master Admin credentials](../../../static/img/master-admin-credentials.png)
 
-### How to Open Backend Server?
+### How to access Swagger?
 
 > To access the generated backend, users need to click on the 'Backend' button.
 
@@ -41,4 +41,4 @@ sidebar_position: 4
 
 > **Note**: To test APIs, please refer to the documentation provided below for testing APIs in Swagger.
 
-- [How to test APIs in swagger?](../api-testing.md)
+- [How to use APIs in swagger?](../api-testing.md)

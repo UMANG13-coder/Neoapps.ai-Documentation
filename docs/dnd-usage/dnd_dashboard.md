@@ -1,25 +1,27 @@
 ---
 id: dnd_dashboard
-title: Quick Overview of DnD Dashboard 
+title: Quick Overview of DND Dashboard
 sidebar_position: 1
 ---
 
-## Getting Started 
+## Getting Started
 
-> In this section, you will receive an overview of the Drag and Drop (DnD) Dashboard, highlighting the types of components featured within it.
+> In this section, you will receive an overview of the Drag and Drop (DND) Dashboard, highlighting the types of components featured within it.
 
-> You have login into DnD Builder using generated 'Master admin Credientials'.
+> You have login into DND Builder using generated 'Master admin Credientials'.
 
-> The provided image visually represents the appearance of the DnD(drag and drop) dashboard, offering viewers a glimpse into its layout and design
+> The provided image visually represents the appearance of the DND(drag and drop) dashboard, offering viewers a glimpse into its layout and design
 
-![DnD Dashboard](../../static/img/dnd_dashboard.gif)
+![DND Dashboard](../../static/img/dnd_dashboard.gif)
 
 ## Comprehensive Tool Access and App Management:
 
-1. **Database Table Components & More** 
+1. **Database Table Components & More**
+
 - Easily find and integrate various elements like database tables, charts, and tabs into your app by using the search functionality, enhancing your app’s functionality and user experience.
 
 2. **Streamlined Development Tools**
+
 - The bottom part of the left sidebar remains your go-to for saving changes (Update UI), publishing updates (Release UI), previewing your work (Preview UI), and managing configurations (Import/Export Config). The search box adds an extra layer of efficiency, helping you quickly navigate through these tools and components.
 
 <!-- ![Sidebar View](../../static/img/navigating_sidebar.gif) -->
@@ -44,15 +46,15 @@ sidebar_position: 1
 
 4. **Import Config / Export Config** :
 
-    - **Import Config** : If you've previously saved your configuration settings, this option lets you upload those settings from your local computer. It's a time-saver, helping you avoid setting up everything from scratch. However, it's crucial that your database design hasn't changed since you last exported the configuration.
+   - **Import Config** : If you've previously saved your configuration settings, this option lets you upload those settings from your local computer. It's a time-saver, helping you avoid setting up everything from scratch. However, it's crucial that your database design hasn't changed since you last exported the configuration.
 
-    - **Export Config** : This option packages your current configuration settings into a zip file containing three crucial files. When you want to replicate your setup elsewhere or back it up, use this feature. Be cautious and review each file to ensure they're correctly prepared for future importing.
+   - **Export Config** : This option packages your current configuration settings into a zip file containing three crucial files. When you want to replicate your setup elsewhere or back it up, use this feature. Be cautious and review each file to ensure they're correctly prepared for future importing.
 
 5. **Exiting and Cleaning Up** :
 
-    - **Exit** : When you're done, use this option to log out securely from the builder.
+   - **Exit** : When you're done, use this option to log out securely from the builder.
 
-    - **Trash** : Made a mistake or changed your mind? Drag components you no longer need to the trash. This action helps keep your workspace clean and organized.
+   - **Trash** : Made a mistake or changed your mind? Drag components you no longer need to the trash. This action helps keep your workspace clean and organized.
 
 ## Configuring Navigation and Component Interactions
 
@@ -78,4 +80,4 @@ sidebar_position: 1
 
 ## Next Step
 
-> Begin configuring the Drag and Drop (DnD) components according to your specifications by simply dragging and dropping them into the pages.
+> Begin configuring the Drag and Drop (DND) components according to your specifications by simply dragging and dropping them into the pages.

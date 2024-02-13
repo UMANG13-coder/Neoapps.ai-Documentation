@@ -1,6 +1,6 @@
 ---
 id: working-with-components
-title: How to Configure DnD?
+title: How to Configure DND?
 sidebar_position: 2
 ---
 
@@ -8,9 +8,9 @@ sidebar_position: 2
 
 > Bring your app ideas to life with [NeoApps.ai](https://neoapps.ai/) components! These pre-built building blocks let you quickly add functionalities and elements, from basic text and images to interactive forms and data tables. Perfect for beginners and technical users alike, components save you time and effort while ensuring a polished and professional look. Explore our library and discover buttons, menus, charts, social media feeds, and more! Start building your dream app today!
 
-> This section offers a detailed, sequential guide to configuring the Drag and Drop (DnD) , providing clear instructions for each stage of the setup process.
+> This section offers a detailed, sequential guide to configuring the Drag and Drop (DND) , providing clear instructions for each stage of the setup process.
 
-## Mastering DnD Configuration: A Step-by-Step Guide
+## Mastering DND Configuration: A Step-by-Step Guide
 
 ### Setting Up a Drag and Drop Component Page
 
