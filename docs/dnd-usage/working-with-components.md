@@ -75,4 +75,5 @@ sidebar_position: 2
 - [Customize Create Mode Configuration](../dnd-usage/Datatable-components-usage/create-mode-configuration.md)
 - [Customize View and Edit Mode Configuration](../dnd-usage/Datatable-components-usage/view-and-edit-modes.md)
 - [Advanced Configuration for Technical Users](./advanced-configuration)
-  > Components are a powerful way to build and customize your app without writing code. With the wide variety of components available in the [NeoApps.ai](https://neoapps.ai/), you can design almost any type of application. We encourage you to experiment with different components and configurations to discover the full potential of your app.
+
+> Components are a powerful way to build and customize your app without writing code. With the wide variety of components available in the [NeoApps.ai](https://neoapps.ai/), you can design almost any type of application. We encourage you to experiment with different components and configurations to discover the full potential of your app.

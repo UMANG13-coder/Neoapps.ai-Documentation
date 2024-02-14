@@ -16,7 +16,7 @@ sidebar_position: 1
 
 #### 1. Simple Bar Charts
 
-![Simple barchart1](../../../static/img/simple-barchart.png)
+![Simple barchart1](../../../static/img/simple-barchart1.png)
 
 ![Simple barchart2](../../../static/img/simple-barchart2.png)
 
@@ -52,7 +52,7 @@ sidebar_position: 1
 
 #### 2. Complex Pie Chart
 
-![Complex PieChart](../../../static/img/complex-piechart.png)
+![Complex PieChart](../../../static/img/compex-piechart.png)
 
 
 ## How to Use Chart Component in DnD ?
@@ -63,7 +63,7 @@ sidebar_position: 1
 
 > **General Settings** : 
 
-![Barchart General Settings](../../../static/img/general_barchart_setting.png)
+![Barchart General Settings](../../../static/img/general-barchart-settings.png)
 
 - Here you can see there are two dropdowns. The first dropdown selects chart types for customizable visualization, while the second dropdown triggers data presentation in Node-RED via selected paths, optimizing user control and flexibility.
 
