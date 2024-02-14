@@ -13,8 +13,8 @@ sidebar_position: 5
 
 - [How to Use Drag and Drop Components](../../dnd-usage/working-with-components.md)
 
-### How to Open DnD builder?
+### How to Open DND builder?
 
-> Effortlessly access the DnD configuration page post-portal generation by simply clicking on 'DnDBuilder', streamlining your customization experience.
+> Effortlessly access the DND configuration page post-portal generation by simply clicking on 'DNDBuilder', streamlining your customization experience.
 
-![Open DnD](../../../static/img/open_dnd.gif)
+![Open DND](../../../static/img/open_dnd.gif)

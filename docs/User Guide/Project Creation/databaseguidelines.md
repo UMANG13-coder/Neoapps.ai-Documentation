@@ -1,10 +1,10 @@
 ---
 id: databaseguidelines
-title: Database Guidelines
+title: Database Creation Guidelines
 sidebar_position: 2
 ---
 
-# Database Creation Guidelines for No-Code App Builder
+# Database Creation Guidelines
 
 ## Overview
 
@@ -55,13 +55,20 @@ sidebar_position: 2
 ## Additional Guidelines
 
 1. **Foreign Key Naming**
-  - Use a consistent naming convention, like `fk_child_parent_column`.
+
+- Use a consistent naming convention, like `fk_child_parent_column`.
+
 2. **Cascading Actions**
-  - Choose actions based on application logic, defaulting to RESTRICT.
+
+- Choose actions based on application logic, defaulting to RESTRICT.
+
 3. **Commenting and Documentation**
-  - Comment tables and columns to explain their purpose or any peculiarities.
+
+- Comment tables and columns to explain their purpose or any peculiarities.
+
 4. **Version Control**
-  - Maintain scripts in a version-controlled repository.
+
+- Maintain scripts in a version-controlled repository.
 
 ## Script Example
 
@@ -83,6 +90,7 @@ CREATE TABLE user_accounts (
 ```
 
 <!-- ### Check, Copy and Use our Imaginary Split-the-bill application : MySQL Database -->
+
 ### Dive into MySQL Database with our Spilt-the-bill Project Script
 
 ```
@@ -258,14 +266,21 @@ https://sqltest.net/ -->
 
 > Leverage our Generative AI tools to streamline your project development process. Below are the links to our specialized AI services:
 
-1. **Project Requirements Wizard**: A neutral and comprehensive requirements generator for a variety of projects. 
-  - [Explore Project Requirements Wizard](https://chat.openai.com/g/g-4Kd60CdM0-1-project-requirements-wizard)
-2. **Story Weaver**: Transforms app requirements into detailed user stories and journeys. 
-  - [Check out Story Weaver](https://chat.openai.com/g/g-KkjJ24bBr-2-story-weaver)
-3. **Database Architect**: Assists in creating databases tailored to your Business and Functional requirements. 
-  - [Visit Database Architect](https://chat.openai.com/g/g-Q8j3HqdNs-3-database-architect)
-4. **Workflow Analyzer**: Provides analysis of databases to delineate and clarify API workflows. 
-  - [Discover Workflow Analyzer](https://chat.openai.com/g/g-ycNQ21ntX-4-workflow-analyzer)
+1. **Project Requirements Wizard**: A neutral and comprehensive requirements generator for a variety of projects.
+
+- [Explore Project Requirements Wizard](https://chat.openai.com/g/g-4Kd60CdM0-1-project-requirements-wizard)
+
+2. **Story Weaver**: Transforms app requirements into detailed user stories and journeys.
+
+- [Check out Story Weaver](https://chat.openai.com/g/g-KkjJ24bBr-2-story-weaver)
+
+3. **Database Architect**: Assists in creating databases tailored to your Business and Functional requirements.
+
+- [Visit Database Architect](https://chat.openai.com/g/g-Q8j3HqdNs-3-database-architect)
+
+4. **Workflow Analyzer**: Provides analysis of databases to delineate and clarify API workflows.
+
+- [Discover Workflow Analyzer](https://chat.openai.com/g/g-ycNQ21ntX-4-workflow-analyzer)
 
 > After finalizing your project requirements and database design, it's possible to check the database script for errors. For scripts not bound by Intellectual Property constraints, consider using online verification tools like [SQLTest.net](https://sqltest.net/) for script validation. Should your database contain IP-sensitive information, please consult with us directly for guidance on the most appropriate verification methods or tools.
 
@@ -317,6 +332,6 @@ https://sqltest.net/ -->
 
 - **Use Case Benefits**: This strategy offers a practical solution for SaaS applications to serve multiple customers, simplifying data isolation, security, and customization per tenant.
 
-## Conclusion 
+## Conclusion
 
 > The choice between single or multiple UIs and databases depends on the application's complexity, scalability needs, and user roles. The platform's evolving capabilities are designed to simplify these choices, providing developers and businesses with the flexibility to tailor their applications to specific operational and user experience objectives.
