@@ -21,6 +21,8 @@ sidebar_position: 4
 2. **Use AI Template**
    > Neoapps.AI introduces an innovative approach to backend generation through AI Templates. While specific details are yet to be disclosed, refer to our roadmap for in-depth information on leveraging AI Templates for backend creation. This method promises to streamline the process further, utilizing artificial intelligence to enhance the efficiency and sophistication of your backend infrastructure.
 
+![Backend Generation](../../../static/img/backend_generation.gif)
+
 > After successfully deploying the backend, explore its APIs and RabbitMQ server. You can interact with APIs using swagger, test message passing in RabbitMQ, and perform integration testing.
 
 ### How to Open RabbitMQ Server ?

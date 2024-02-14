@@ -9,12 +9,18 @@ sidebar_position: 5
     1. **DND designer**
     2. **Actual frontend website**
 
-> Refer below links for configure Drag and drop Components.
+### How to generate DND(Drag & Drop) Builder ? 
 
-- [How to Use Drag and Drop Components](../../dnd-usage/working-with-components.md)
+![DND Generation](../../../static/img/frontend_generation.gif)
 
 ### How to Open DND builder?
 
 > Effortlessly access the DND configuration page post-portal generation by simply clicking on 'DNDBuilder', streamlining your customization experience.
 
 ![Open DND](../../../static/img/open_dnd.gif)
+
+### Next Step
+
+> Refer below links for configure Drag and drop Components.
+
+- [How to Use Drag and Drop Components](../../dnd-usage/working-with-components.md)

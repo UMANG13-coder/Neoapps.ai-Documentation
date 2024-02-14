@@ -14,7 +14,7 @@ sidebar_position: 3
 
    > Follow these straightforward guidelines to create a database by importing your own script. This method allows for seamless integration of existing database structures into Neoapps.AI. Simply adhere to the provided guidelines for database creation, ensuring a smooth and efficient process..
 
-   <!-- ![Database Creation](../../../static/img/Database%20animation.gif) -->
+   ![Database Creation](../../../static/img/database_creation_using_importscript.gif)
 
 2. **Design Database on Portal**
    > Leverage the intuitive database designer on the Neoapps.AI portal to craft a customized database for your application. This user-friendly interface enables you to define the structure of your database with ease. Design tables, establish relationships, and set up the necessary components to create a database that perfectly aligns with your application requirements.

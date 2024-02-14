@@ -10,6 +10,12 @@ sidebar_position: 1
     - Create a subdomain.
         - Enter a valid name.
         - Ensure the domain is not already in use.
+
+![Project Creation](../../../static/img/project_creation.gif)
+
 > Navigate your project dashboard and its details.
+
+![Project Dashboard Navigation](../../../static/img/navigate_projectdashboard.gif)
+
 > Familiarize with various messages.
 
