@@ -1,7 +1,7 @@
 ---
 id: Kubernetes_Deployment_Management_README
 title: Kubernetes Deployment Management and Subscribed Services
-sidebar_position: 7
+sidebar_position: 20
 ---
 
 > This guide provides a comprehensive overview of the procedures involved in managing trial and subscribed deployments within a Kubernetes environment. It offers step-by-step instructions for various tasks, including the cleanup of expired trial deployments and the efficient management of node pools. By following the outlined process, users can ensure the seamless operation of their Kubernetes clusters, optimize resource allocation, and maintain the integrity of their deployments.
