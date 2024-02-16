@@ -157,6 +157,10 @@ const config: Config = {
           title: 'Useful Links',
           items: [
             {
+              label: 'Pricing',
+              to: 'https://neoapps.ai/index-ai-pricing',
+            },
+            {
               label: 'FAQs',
               to: 'https://neoapps.ai/helpcenter-faqs',
             },
