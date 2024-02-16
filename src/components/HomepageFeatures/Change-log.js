@@ -11,14 +11,14 @@ export default function ChangeLog() {
     const items = [{
     title: "Feb 2024",
     cardTitle: "Change 1",
-    cardSubtitle:"Men of the British Expeditionary Force (BEF) wade out to..",
-    cardDetailedText: "Men of the British Expeditionary Force (BEF) wade out to..",
+    cardSubtitle:"Layout of grid view",
+    cardDetailedText: "Each columns are free to move and contain dynamic grid span.",
     },
     {
     title: "Dec 2023",
     cardTitle: "Change 2",
-    cardSubtitle:"Men of the British Expeditionary Force (BEF) wade out to..",
-    cardDetailedText: "Men of the British Expeditionary Force (BEF) wade out to..",
+    cardSubtitle:"Get by owner name",
+    cardDetailedText: "On calling API 'Get All Data', result will contain only data created by owner for security.",
     }
     ];
     
