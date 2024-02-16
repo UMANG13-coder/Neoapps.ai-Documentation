@@ -24,8 +24,6 @@ sidebar_position: 1
     - Unlock the power of your data with the ability to bring your own script, create a new database, or seamlessly connect to existing databases.
 - **Visual Workflow Configuration using Node-red**
     - Design your app's logic and workflows visually in Node-red, no coding required. Connect the dots easily with a clear and intuitive process.
-- **Comprehensive Component Library**
-    - Access a variety of components for displaying data, capturing user input, and adding interactive features to your app.
 - **Customization and Branding**
     - Personalize your app's look to match your brand. Tailor the appearance without hassle to create a unique identity for your application.
 
