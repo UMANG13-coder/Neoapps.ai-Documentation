@@ -12,7 +12,7 @@ sidebar_position: 1
 
 > **Seamless Login** : Access the platform with your username and password, and embark on your app-building adventure.
 
-> **Tailored Subscriptions** : Choose a subscription plan that aligns perfectly with your project's requirements and scale up as your needs evolve.
+> **Tailored Subscriptions** : Choose a [Subscription plan](https://neoapps.ai/index-ai-pricing) that aligns perfectly with your project's requirements and scale up as your needs evolve.
 
 ### Laying the Foundation:
 

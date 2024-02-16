@@ -19,13 +19,13 @@ sidebar_position: 1
 ## Key Features
 
 - **Drag-and-Drop Interface**
-    - Build your apps effortlessly by dragging and dropping elements with a simple and intuitive interface.
+  - Build your apps effortlessly by dragging and dropping elements with a simple and intuitive interface.
 - **Database Flexibility: Bring, Create, Connect**
-    - Unlock the power of your data with the ability to bring your own script, create a new database, or seamlessly connect to existing databases.
+  - Unlock the power of your data with the ability to bring your own script, create a new database, or seamlessly connect to existing databases.
 - **Visual Workflow Configuration using Node-red**
-    - Design your app's logic and workflows visually in Node-red, no coding required. Connect the dots easily with a clear and intuitive process.
+  - Design your app's logic and workflows visually in Node-red, no coding required. Connect the dots easily with a clear and intuitive process.
 - **Customization and Branding**
-    - Personalize your app's look to match your brand. Tailor the appearance without hassle to create a unique identity for your application.
+  - Personalize your app's look to match your brand. Tailor the appearance without hassle to create a unique identity for your application.
 
 <!-- ![Docusaurus logo](/img/neoapps_ai_logo.png) -->
 
@@ -53,20 +53,20 @@ sidebar_position: 1
 
     - **Cost Efficiency** : Save on development costs with [Neoapps.ai](https://neoapps.ai/). **The platform offers pre-built components, reducing the need for specialized labor or extensive coding expertise**. It's a cost-effective solution that doesn't compromise on quality.
 
-## Getting Started 
+## Getting Started
 
 > Embark on your app development journey with [Neoapps.ai](https://neoapps.ai/) by following these easy steps:
 
-1.    **A Database**
-        - Select a MySQL database script that suits your app's needs and fulfill on the app's requirement.
-2.   **Customize Your App**
-        - Make your app unique by dragging and dropping components. Adjust the look and feel effortlessly using customization options.
-3.   **Define Workflows**
-        - Set up how your app behaves by defining logical workflows. No coding required – just connect the dots using Node-red.
-4.   **Preview and Test**
-        - See your app in action with the built-in preview feature. Test it in real-time to ensure everything works seamlessly.
-5.   **Deploy**
-        - At every stage of generation the deployment process is automated. It deploys every stage after its generation. 
+1.  **A Database**
+    - Select a MySQL database script that suits your app's needs and fulfill on the app's requirement.
+2.  **Customize Your App**
+    - Make your app unique by dragging and dropping components. Adjust the look and feel effortlessly using customization options.
+3.  **Define Workflows**
+    - Set up how your app behaves by defining logical workflows. No coding required – just connect the dots using Node-red.
+4.  **Preview and Test**
+    - See your app in action with the built-in preview feature. Test it in real-time to ensure everything works seamlessly.
+5.  **Deploy**
+    - At every stage of generation the deployment process is automated. It deploys every stage after its generation.
 
 ## Next Steps
 
@@ -75,6 +75,7 @@ sidebar_position: 1
 > If you want to learn more, take a look at different sections for more details. The possibilities are wide open, and [Neoapps.ai](https://neoapps.ai/) is here to make your journey into app creation exciting and straightforward! Let's bring those ideas to life!
 
     - [Getting Started with Your Neoapps.ai](/getting-started/signup&login.md)
+
 <!-- - [Advanced Configuration for Technical Users](./dnd-usage/) -->
 
 > We're excited to see what you build with the [Neoapps.ai](https://neoapps.ai/)!
