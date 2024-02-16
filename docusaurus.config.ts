@@ -134,10 +134,6 @@ const config: Config = {
               label: 'Getting Started',
               to: '/category/getting-started-with-neoappsai',
             },
-            {
-              label: 'Kubernetes Deployment Management',
-              to: '/Kubernetes_Deployment_Management_README',
-            },
           ],
         },
         // {

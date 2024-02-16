@@ -1,6 +1,6 @@
 ---
 id: api_overview
-title: API Overview
+title: API 
 sidebar_position: 2
 ---
 
