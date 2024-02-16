@@ -80,7 +80,7 @@ CREATE TABLE user_accounts (
   username VARCHAR(255) NOT NULL UNIQUE,
   password VARCHAR(255) NOT NULL,
   email VARCHAR(255) NOT NULL UNIQUE,
-  is_active BOOLEAN DEFAULT TRUE,
+  isActive tinyint(1) NOT NULL DEFAULT '1',
   createdAt VARCHAR(255) NOT NULL,
   modifiedAt DATETIME NOT NULL,
   modifiedBy VARCHAR(255),
@@ -249,7 +249,9 @@ CREATE TABLE user_preferences (
 
 > Additionally, explore the functionality of our chatbot through QA-based sessions, acting as a Virtual Business Analyst. We're continuously working to enhance our offerings with more advanced features planned for the future. Stay tuned for updates and make sure to check our roadmap for what's coming next.
 
-[![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Video Title")
+<!-- [![Watch Chat-GPT Create Requirements, User Stories, Scripts & Workflows at Lightning Speed!](http://img.youtube.com/vi/1f7NgWpi920/0.jpg)](https://www.youtube.com/watch?v=1f7NgWpi920 "Watch Chat-GPT Create Requirements, User Stories, Scripts & Workflows at Lightning Speed!") -->
+
+<iframe width="695" height="391" src="https://www.youtube.com/embed/1f7NgWpi920" title="Watch Chat-GPT Create Requirements, User Stories, Scripts &amp; Workflows at Lightning Speed! ⚡️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- ## Generative AI Integration and Usage
 
@@ -288,7 +290,7 @@ https://sqltest.net/ -->
 
 > In the light of our discussions on no-code app builders and their adaptability, we delve into various scenarios for connecting to and managing databases. These scenarios address challenges like managing large databases, separating portal instances, and efficiently handling traffic loads. We also touch upon the need for distinct frontend and backend administrative interfaces, and strategies for staging versus production environments, and integrating a microservices architecture.
 
-![Placeholder for content image](https://via.placeholder.com/150)
+<!-- ![Placeholder for content image](https://via.placeholder.com/150) -->
 
 ## Scenario 1: Single UI, Single Database
 
