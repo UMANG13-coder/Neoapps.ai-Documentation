@@ -19,6 +19,8 @@ sidebar_position: 3
 - **Configuring Your Component**
   - Configuring your components is key to making them work for your app. Learn about the various settings and options available for component configuration.
 
+![DnD DashBoard](../../static/img/dnd_dashboard.gif)
+
 ### **Create Mode Configuration**
 
 > Understand the basics of Create Mode and how it facilitates the addition of new database entries.Dive into the specifics of configuring the Create Mode for your components, enabling users to add new entries to your database with ease.
@@ -32,6 +34,8 @@ sidebar_position: 3
 - **Create Mode Validation**
   - Learn how to implement validation rules and error handling in Create Mode to ensure data integrity and user guidance.
 
+![create mode](../../static/img/create_mode.png)
+
 ### **View and Edit Modes**
 
 > Explore the functionality and customization options of View and Edit Modes, allowing users to display and modify existing data.
@@ -44,6 +48,8 @@ sidebar_position: 3
   - Customize how data is displayed in View Mode, including options for hiding/unhiding columns and configuring the layout.
 - **Edit Mode: Direct Entry Editing**
   - Edit Mode enables direct modifications to existing entries. Learn how to activate and use Edit Mode for efficient data management.
+
+![View Mode](../../static/img/view_mode.gif)
 
 ### **Enhancing User Experience**
 

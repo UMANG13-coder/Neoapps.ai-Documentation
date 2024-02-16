@@ -90,13 +90,13 @@ npm install -g --unsafe-perm node-red
 - Set up Redis in Docker using the following command:
 
 ```
-docker run -d --name redis-stack-server -p 6379:6379 redis/redis-stack-server:latest
+docker run -d --name redis-stack-server -p 6379:6379 -e REDIS_PASSWORD=<your_password> redis/redis-stack-server:latest
 ```
 
 - After running the Redis image in Docker, set the Redis connection string as shown below
 
 ```
-"Redis": "<server>:6379"
+"Redis": "<server>:6379,password:<your_password>;"
 ```
 
 5. **Token API**
