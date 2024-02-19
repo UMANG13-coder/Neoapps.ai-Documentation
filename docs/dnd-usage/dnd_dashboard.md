@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ## Getting Started
 
-> In this section, you will receive an overview of the Drag and Drop (DND) Dashboard, highlighting the types of components featured within it.
+> In this section, you will receive an overview of the Drag & Drop (DND) Dashboard, highlighting the types of components featured within it.
 
 > You have login into DND Builder using generated 'Master admin Credientials'.
 
-> The provided image visually represents the appearance of the DND(drag and drop) dashboard, offering viewers a glimpse into its layout and design
+> The provided image visually represents the appearance of the DND(drag & drop) dashboard, offering viewers a glimpse into its layout and design
 
 ![DND Dashboard](../../static/img/dnd_dashboard.gif)
 
@@ -30,7 +30,7 @@ sidebar_position: 1
 
 > The sidebar on the top left of your screen is your toolbox, offering a variety of components to add to your app. Here you'll find:
 
-1. **Database Table Components** : Drag and drop elements that represent the different tables in your database, allowing you to display and interact with your data.
+1. **Database Table Components** : Drag & drop elements that represent the different tables in your database, allowing you to display and interact with your data.
 
 2. **Chart Component** : Add visual data representations to make your app more informative and engaging.
 
@@ -80,4 +80,4 @@ sidebar_position: 1
 
 ## Next Step
 
-> Begin configuring the Drag and Drop (DND) components according to your specifications by simply dragging and dropping them into the pages.
+> Begin configuring the Drag & Drop (DND) components according to your specifications by simply dragging and dropping them into the pages.

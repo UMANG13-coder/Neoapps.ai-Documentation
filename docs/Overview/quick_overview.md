@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Quick Overview of Project Creation
 
-> [NeoApps.ai](https://neoapps.ai/) empowers you to take your app ideas from concept to reality, offering a user-friendly platform that streamlines the entire development process. Whether you're a seasoned developer or a budding entrepreneur, [NeoApps.ai](https://neoapps.ai/) provides the tools and guidance you need to bring your vision to life. Here's a glimpse into what awaits you:
+> [NeoApps.AI](https://neoapps.ai/) empowers you to take your app ideas from concept to reality, offering a user-friendly platform that streamlines the entire development process. Whether you're a seasoned developer or a budding entrepreneur, [NeoApps.AI](https://neoapps.ai/) provides the tools and guidance you need to bring your vision to life. Here's a glimpse into what awaits you:
 
 ### Effortless Onboarding:
 
@@ -44,7 +44,7 @@ sidebar_position: 1
 - [Overview of Components creation and configuration](./Componenets_creation&configurations.md).
 - [Overview of Advanced Components configuration for Developers](./advanced_configuration.md).
 
-### Understand Your Drag and Drop and Frontend Code for Customization
+### Understand Your Drag & Drop and Frontend Code for Customization
 
 - The drag-and-drop interface simplifies the app development process, but understanding the underlying frontend code is essential for advanced customization beyond the UI builder's capabilities.
 
@@ -59,7 +59,7 @@ This section will guide you through taking your app's customization to the next 
 
 ### Understand Your Architecture
 
-Gaining insight into the architectural design of the [NeoApps.ai](https://neoapps.ai/) is essential for understanding how applications are structured and run within the platform.
+Gaining insight into the architectural design of the [NeoApps.AI](https://neoapps.ai/) is essential for understanding how applications are structured and run within the platform.
 
 - **System Components**: Overview of the core components that make up the platform.
 - **Data Handling**: How data is managed and stored.

@@ -12,7 +12,7 @@ sidebar_position: 3
 
 1. **Import Your Own Script**
 
-   > Follow these straightforward guidelines to create a database by importing your own script. This method allows for seamless integration of existing database structures into Neoapps.AI. Simply adhere to the provided guidelines for database creation, ensuring a smooth and efficient process..
+   > Follow these straightforward guidelines to create a database by importing your own script. This method allows for seamless integration of existing database structures into Neoapps.AI. Simply adhere to the provided [database creation guideline](databaseguidelines.md), ensuring a smooth and efficient process..
 
    ![Database Creation](../../../static/img/database_creation_using_importscript.gif)
 
@@ -22,11 +22,11 @@ sidebar_position: 3
 
    > For apps built on the current AI platform, reuse the database.
 
-   > Discuss scenarios for connecting to an existing database, like managing large databases or separating portal instances and traffic loads.
+   > Discuss scenarios with us for connecting to an existing database, like managing large databases or separating portal instances and traffic loads.
 
 ### Open Database in Phpmyadmin
 
-> After compliting the above steps you can view your created databases in the Databases section of the portal. Also you can access you Database by clicking on 'phpmyadmin' button .
+> After completing the above steps you can view your created databases in the Databases section of the portal. Also you can access your Database by clicking on 'phpmyadmin' button .
 
 ![Open phpmyadmin](../../../static/img/open_phpmyadmin.gif)
 

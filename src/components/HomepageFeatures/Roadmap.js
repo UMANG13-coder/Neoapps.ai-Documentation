@@ -34,6 +34,13 @@ export default function Roadmap() {
               titleColorActive: "rgb(0,0,0)"
             }}
 
+            classNames={{
+              card: 'my-card',
+              cardSubTitle: 'my-card-subtitle',
+              cardTitle: 'my-card-title',
+             
+            }}
+
       fontSizes={{
         cardSubtitle: '1.3rem',
         cardText: '1.8rem',

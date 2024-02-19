@@ -14,7 +14,7 @@ sidebar_position: 6
 
 - **Customization and Flexibility**: While our templates provide a substantial starting point, you have the flexibility to customize them according to your needs. This includes modifying requirements, database schemas, and workflows to fit your specific project goals.
 
-- **Drag and Drop Configuration**: Initiate your project with an intuitive drag-and-drop interface. Please note, the configuration process requires your creative input, as it's subject to evolve with new updates and enhancements to our AI generators. Guidance on drag-and-drop configuration will be provided, but the design aspect remains a customizable feature to accommodate ongoing platform advancements.
+- **Drag & Drop Configuration**: Initiate your project with an intuitive drag & drop interface. Please note, the configuration process requires your creative input, as it's subject to evolve with new updates and enhancements to our AI generators. Guidance on drag & drop configuration will be provided, but the design aspect remains a customizable feature to accommodate ongoing platform advancements.
 
 ## Marketplace Updates
 
@@ -30,4 +30,4 @@ sidebar_position: 6
 
 > To begin, explore the marketplace and select a template that closely matches your project requirements. From there, you can purchase the template and use the provided documentation and files as a base for your custom application development. Remember, while our templates offer a significant head start, your innovation and customization will bring your unique vision to life.
 
-> Stay tuned for more updates on the marketplace and the exciting new templates we're adding to simplify your development process. Check our roadmap for insights into upcoming features and enhancements.
+> Stay tuned for more updates on the marketplace and the exciting new templates we're adding to simplify your development process. Check our [Roadmap](../Roadmap.mdx) for insights into upcoming features and enhancements.

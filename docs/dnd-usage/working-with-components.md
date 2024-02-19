@@ -6,13 +6,13 @@ sidebar_position: 2
 
 ## Getting Started
 
-> Bring your app ideas to life with [NeoApps.ai](https://neoapps.ai/) components! These pre-built building blocks let you quickly add functionalities and elements, from basic text and images to interactive forms and data tables. Perfect for beginners and technical users alike, components save you time and effort while ensuring a polished and professional look. Explore our library and discover buttons, menus, charts, social media feeds, and more! Start building your dream app today!
+> Bring your app ideas to life with [NeoApps.AI](https://neoapps.ai/) components! These pre-built building blocks let you quickly add functionalities and elements, from basic text and images to interactive forms and data tables. Perfect for beginners and technical users alike, components save you time and effort while ensuring a polished and professional look. Explore our library and discover buttons, menus, charts, social media feeds, and more! Start building your dream app today!
 
-> This section offers a detailed, sequential guide to configuring the Drag and Drop (DND) , providing clear instructions for each stage of the setup process.
+> This section offers a detailed, sequential guide to configuring the Drag & Drop (DND) , providing clear instructions for each stage of the setup process.
 
 ## Mastering DND Configuration: A Step-by-Step Guide
 
-### Setting Up a Drag and Drop Component Page
+### Setting Up a Drag & Drop Component Page
 
 > Our project offers four distinct types of pages to cater to varying needs:
 
@@ -27,11 +27,11 @@ sidebar_position: 2
 
 ![Adding page](../../static/img/adding_page.gif)
 
-### Integrating Components via Drag and Drop
+### Integrating Components via Drag & Drop
 
-> Upon selecting the preferred page type, seamlessly integrate components onto the interface using intuitive drag-and-drop functionality.
+> Upon selecting the preferred page type, seamlessly integrate components onto the interface using intuitive drag & drop functionality.
 
-![Drag and Drop components](../../static/img/drag_and_drop.gif)
+![Drag & Drop components](../../static/img/drag_and_drop.gif)
 
 ### Fine-Tune Your App: Dive into Component Configuration
 
@@ -76,4 +76,4 @@ sidebar_position: 2
 - [Customize View and Edit Mode Configuration](../dnd-usage/Datatable-components-usage/view-and-edit-modes.md)
 - [Advanced Configuration for Technical Users](./advanced-configuration)
 
-> Components are a powerful way to build and customize your app without writing code. With the wide variety of components available in the [NeoApps.ai](https://neoapps.ai/), you can design almost any type of application. We encourage you to experiment with different components and configurations to discover the full potential of your app.
+> Components are a powerful way to build and customize your app without writing code. With the wide variety of components available in the [NeoApps.AI](https://neoapps.ai/), you can design almost any type of application. We encourage you to experiment with different components and configurations to discover the full potential of your app.

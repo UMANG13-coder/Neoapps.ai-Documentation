@@ -22,8 +22,8 @@ sidebar_position: 2
 
 ### Authentication with Bearer Token
 
-- **Generating Tokens**: Obtain a Bearer Token through a straightforward process detailed in this section. Secure your API interactions by generating tokens for seamless authentication.
-- **Making Authenticated Requests**: Understand how to include the Bearer Token in your API requests to ensure proper authorization. Follow our examples to seamlessly integrate the authentication process into your application.
+- **Generating Tokens**: Obtain a Bearer Token through a straightforward process detailed in this [section](../User%20Guide/api-testing.md#how-to-generate-a-token). Secure your API interactions by generating tokens for seamless authentication.
+- **Making Authenticated Requests**: Understand how to include the Bearer Token in your API requests to ensure proper authorization. Follow our [example](../User%20Guide/api-testing.md) to seamlessly integrate the authentication process into your application.
 
 ### Testing the API:
 

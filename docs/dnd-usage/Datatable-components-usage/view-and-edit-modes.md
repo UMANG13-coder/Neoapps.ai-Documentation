@@ -4,8 +4,7 @@ title: View and Edit Modes
 sidebar_position: 2
 ---
 
-
-> The [NeoApps.ai](https://neoapps.ai/) offers powerful functionalities through view and edit modes, allowing users to display data and make updates to existing records. This guide covers setting up these modes for your application components.
+> The [NeoApps.AI](https://neoapps.ai/) offers powerful functionalities through view and edit modes, allowing users to display data and make updates to existing records. This guide covers setting up these modes for your application components.
 
 ## Configuring View Mode
 
@@ -24,16 +23,18 @@ sidebar_position: 2
 
 > You can customize how data is displayed in view mode:
 
-- **Column Selection**: 
-    - Choose which columns of your data source are visible.
+- **Column Selection**:
 
-    ![View Feild Changes](../../../static/img/table_view_changes.gif)
+  - Choose which columns of your data source are visible.
 
-- **Formatting Options**: 
-    - Apply formatting to better present your data, such as date formats or conditional styling.
+  ![View Feild Changes](../../../static/img/table_view_changes.gif)
 
-- **Sorting and Filtering**: 
-    - Enable sorting and filtering options for users to easily navigate through the data.
+- **Formatting Options**:
+
+  - Apply formatting to better present your data, such as date formats or conditional styling.
+
+- **Sorting and Filtering**:
+  - Enable sorting and filtering options for users to easily navigate through the data.
 
 <!-- ![Customizing Data Display](/img/neoapps_ai_logo.png) -->
 
@@ -51,10 +52,10 @@ sidebar_position: 2
 
 > For a seamless user experience, you can implement inline editing:
 
-- **Inline Edit Triggers**: 
-    - Configure the component so that a double-click on a data row or an edit icon click enables inline editing.
-- **Save Mechanism**: 
-    - Provide a straightforward way for users to save changes, such as an "Apply" button within the row being edited.
+- **Inline Edit Triggers**:
+  - Configure the component so that a double-click on a data row or an edit icon click enables inline editing.
+- **Save Mechanism**:
+  - Provide a straightforward way for users to save changes, such as an "Apply" button within the row being edited.
 
 <!-- ![Implementing Inline Editing](/img/neoapps_ai_logo.png) -->
 

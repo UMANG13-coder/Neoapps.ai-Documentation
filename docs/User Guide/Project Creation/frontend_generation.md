@@ -9,7 +9,7 @@ sidebar_position: 5
     1. **DND designer**
     2. **Actual frontend website**
 
-### How to generate DND(Drag & Drop) Builder ? 
+### How to generate DND(Drag & Drop) Builder ?
 
 ![DND Generation](../../../static/img/frontend_generation.gif)
 
@@ -21,6 +21,6 @@ sidebar_position: 5
 
 ### Next Step
 
-> Refer below links for configure Drag and drop Components.
+> Refer below links for configure Drag & drop Components.
 
-- [How to Use Drag and Drop Components](../../dnd-usage/working-with-components.md)
+- [How to Use Drag & Drop Components](../../dnd-usage/working-with-components.md)

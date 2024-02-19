@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Getting Started
 
-> In this section, you will learn about the various types of charts supported by our application and how to configure your chosen chart using the drag-and-drop (DND) builder.
+> In this section, you will learn about the various types of charts supported by our application and how to configure your chosen chart using the drag & drop (DND) builder.
 
 ## Type of Charts
 

@@ -4,9 +4,9 @@ title: Create Mode Configuration
 sidebar_position: 1
 ---
 
-## Getting Started  
+## Getting Started
 
-> Create mode in the [NeoApps.ai](https://neoapps.ai/) allows users to add new entries to their database, making it a crucial feature for applications that require data input. This guide will walk you through setting up and customizing the create mode for your application.
+> Create mode in the [NeoApps.AI](https://neoapps.ai/) allows users to add new entries to their database, making it a crucial feature for applications that require data input. This guide will walk you through setting up and customizing the create mode for your application.
 
 ## Setting Up Create Mode
 
@@ -22,7 +22,7 @@ sidebar_position: 1
 
 > In create mode, you can define which fields users will fill out to add new records:
 
-- **Add Fields**: Drag and drop the desired fields from the component library into your component.
+- **Add Fields**: Drag & drop the desired fields from the component library into your component.
 
 - **Field Properties**: Configure each field's properties, such as field name, data type, and default value.
 
@@ -50,8 +50,8 @@ sidebar_position: 1
 
 > Before finalizing your create mode configuration, it's essential to preview and test the functionality:
 
-1. Utilize the preview feature within [NeoApps.ai](https://neoapps.ai/) to simulate the user experience of an application. 
-2. Before accessing the preview, ensure the user interface (UI) is updated and released. 
+1. Utilize the preview feature within [NeoApps.AI](https://neoapps.ai/) to simulate the user experience of an application.
+2. Before accessing the preview, ensure the user interface (UI) is updated and released.
 3. Test the form functionality by entering data, validating all required fields, formats, and custom rules to ensure seamless operation.
 
 ![Previewing and Testing](../../../static/img/previewui_mode.gif)

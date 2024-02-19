@@ -33,9 +33,13 @@ sidebar_position: 2
 - `FLOAT`, `DOUBLE`: For floating-point numbers.
 - `DATE`, `DATETIME`, `TIMESTAMP`: For dates and times.
 - `TEXT`: For long text fields.
-- Avoid `ENUM`; consider additional configuration tables if necessary.
+- Avoid `ENUM`.
 
-> Provide Example what does it mean avoid ENUM here.
+  ```
+   status ENUM('Active', 'Inactive', 'Pending') NOT NULL
+  ```
+
+  > It is advisable to avoid using ENUM data type in the SQL script.
 
 ### Column Attributes
 
@@ -247,7 +251,7 @@ CREATE TABLE user_preferences (
 
 > For inquiries or to obtain the Enterprise version for comprehensive AI access, please do not hesitate to reach out and contact us.
 
-> Additionally, explore the functionality of our chatbot through QA-based sessions, acting as a Virtual Business Analyst. We're continuously working to enhance our offerings with more advanced features planned for the future. Stay tuned for updates and make sure to check our roadmap for what's coming next.
+> Additionally, explore the functionality of our chatbot through QA-based sessions, acting as a Virtual Business Analyst. We're continuously working to enhance our offerings with more advanced features planned for the future. Stay tuned for updates and make sure to check our [Roadmap](../../Roadmap.mdx) for what's coming next.
 
 <!-- [![Watch Chat-GPT Create Requirements, User Stories, Scripts & Workflows at Lightning Speed!](http://img.youtube.com/vi/1f7NgWpi920/0.jpg)](https://www.youtube.com/watch?v=1f7NgWpi920 "Watch Chat-GPT Create Requirements, User Stories, Scripts & Workflows at Lightning Speed!") -->
 
@@ -302,7 +306,7 @@ https://sqltest.net/ -->
 
 - **Use Case**: Applies when different user interfaces (UIs) are needed for various user roles (e.g., customers vs. administrators), all interacting with the same database.
 
-- **Strategy**: Implement two projects under separate licenses to facilitate unique portal experiences, requiring customization to ensure efficient content and functionality delivery for each portal. Efforts to streamline this feature for easier interface separation are in progress. Please check our roadmap.
+- **Strategy**: Implement two projects under separate licenses to facilitate unique portal experiences, requiring customization to ensure efficient content and functionality delivery for each portal. Efforts to streamline this feature for easier interface separation are in progress. Please check our [Roadmap](../../Roadmap.mdx).
 
 ## Scenario 3: Multiple UIs, Multiple Databases
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Getting Started
 
-> [NeoApps.ai](https://neoapps.ai/) documentation provides comprehensive guidance for customizing your application's user interface (UI) to reflect your brand identity and enhance user experience. Explore tools and options including color schemes, layout configurations, typography choices, icon customization, and theme templates to seamlessly align your app with your brand vision.
+> [NeoApps.AI](https://neoapps.ai/) documentation provides comprehensive guidance for customizing your application's user interface (UI) to reflect your brand identity and enhance user experience. Explore tools and options including color schemes, layout configurations, typography choices, icon customization, and theme templates to seamlessly align your app with your brand vision.
 
 ### Choosing Colors for Your App
 

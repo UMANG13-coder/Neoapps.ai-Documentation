@@ -14,7 +14,7 @@ sidebar_position: 3
 
 - **Adding a Data Component**
   - Data components are essential in building the structure of your app. This guide will show you how to add a data component to your project.
-- **Drag and Drop CRUD Component**
+- **Drag & Drop CRUD Component**
   - The CRUD component allows you to create, read, update, and delete database entries. Discover how to utilize the CRUD component effectively by dragging it from the sidebar into your workspace.
 - **Configuring Your Component**
   - Configuring your components is key to making them work for your app. Learn about the various settings and options available for component configuration.
@@ -23,7 +23,8 @@ sidebar_position: 3
 
 ### **Create Mode Configuration**
 
-> Understand the basics of Create Mode and how it facilitates the addition of new database entries.Dive into the specifics of configuring the Create Mode for your components, enabling users to add new entries to your database with ease.
+> Understand the basics of Create Mode and how it facilitates the addition of new database entries.
+> Dive into the specifics of configuring the Create Mode for your components, enabling users to add new entries to your database with ease.
 
 > For more details visit [How to configure create-mode](../dnd-usage/Datatable-components-usage/create-mode-configuration.md)
 

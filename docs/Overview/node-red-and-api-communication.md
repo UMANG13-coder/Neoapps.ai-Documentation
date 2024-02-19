@@ -72,7 +72,7 @@ sidebar_position: 5
 
 ## Application in Database Event-Triggered Workflows
 
-> The architecture you've described fits within the EDA framework, focusing on a pattern where database actions trigger events, subsequently broadcasted to initiate workflows. This model is particularly adept at facilitating processes outside the database in response to database state changes.
+> The [architecture](#architecture-diagram) detailed earlier aligns with the Event-Driven Architecture (EDA) framework, emphasizing a pattern in which database actions trigger events that are subsequently broadcasted to initiate workflows. This model excels at facilitating processes beyond the database in response to changes in the database state.
 
 ### Components:
 
