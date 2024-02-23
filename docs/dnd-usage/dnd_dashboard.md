@@ -8,7 +8,7 @@ sidebar_position: 1
 
 > In this section, you will receive an overview of the Drag & Drop (DND) Dashboard, highlighting the types of components featured within it.
 
-> You have login into DND Builder using generated 'Master admin Credientials'.
+> Login into DND Builder using generated ‘Master Credentials’. 
 
 > The provided image visually represents the appearance of the DND(drag & drop) dashboard, offering viewers a glimpse into its layout and design
 
@@ -24,7 +24,7 @@ sidebar_position: 1
 
 - The bottom part of the left sidebar remains your go-to for saving changes (Update UI), publishing updates (Release UI), previewing your work (Preview UI), and managing configurations (Import/Export Config). The search box adds an extra layer of efficiency, helping you quickly navigate through these tools and components.
 
-<!-- ![Sidebar View](../../static/img/navigating_sidebar.gif) -->
+![Sidebar View](../../static/img/previewui_mode.gif)
 
 ### Top Left Sidebar - Accessing Tools for Your App
 
@@ -34,7 +34,11 @@ sidebar_position: 1
 
 2. **Chart Component** : Add visual data representations to make your app more informative and engaging.
 
+- [Chart Component Usage](./chart-component-usage/chart-component.md)
+
 3. **Tabs Component** : Incorporate tabs into your app for better organization and navigation, making it easier for users to find what they need.
+
+- In the DND Builder, users can leverage the 'tab' component for seamless navigation between pages, enhancing user experience and ease of use.
 
 ### Bottom Part of Left Sidebar - Managing Your App's Development
 

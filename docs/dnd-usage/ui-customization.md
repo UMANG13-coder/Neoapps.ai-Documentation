@@ -36,6 +36,7 @@ sidebar_position: 6
 
 1. **Grid System**:
    - Use the app builder's grid system to structure your pages and align elements neatly.
+   - [View Mode Customization](../dnd-usage/Datatable-components-usage/grid-view.md)
 2. **Spacing and Margins**:
    - Adjust spacing and margins to ensure that your app doesn't feel cramped or cluttered.
 
@@ -61,6 +62,8 @@ sidebar_position: 6
 2. **Navigation Menus**:
    - Customize navigation menus with colors and styles that match your app's theme.
 
+- [Button Configuration for Easy Navigation](../dnd-usage/Datatable-components-usage/navigation-mode-configuration.md)
+
 <!-- ![Enhancing User Interface Components](/img/neoapps_ai_logo.png) -->
 
 ### Previewing and Applying Changes
@@ -72,7 +75,7 @@ sidebar_position: 6
 2. **Apply Changes**:
    - Once satisfied with the preview, apply the changes to update your app's live version.
 
-<!-- ![Previewing and Applying Changes](/img/neoapps_ai_logo.png) -->
+![Previewing and Applying Changes](../../static/img/previewui_mode.gif)
 
 ### Next Steps
 

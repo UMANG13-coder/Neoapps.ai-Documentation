@@ -73,8 +73,8 @@ sidebar_position: 2
 
 > With view and edit modes configured, your app will be much more interactive and user-friendly. Consider exploring additional functionalities to enhance your application further:
 
+- [Advanced View Configuration](./grid-view.md)
 - [Navigation Mode Configuration](./navigation-mode-configuration.md)
 - [Enhancing User Experience](../enhancing-user-experience)
-- [Advanced Configuration for Technical Users](../advanced-configuration)
 
 > View and edit modes are integral to creating dynamic applications that allow users to interact with the data meaningfully. By following this guide, you can ensure these functionalities are well-implemented in your application.

@@ -25,13 +25,13 @@ sidebar_position: 2
 - **Generating Tokens**: Obtain a Bearer Token through a straightforward process detailed in this [section](../User%20Guide/api-testing.md#how-to-generate-a-token). Secure your API interactions by generating tokens for seamless authentication.
 - **Making Authenticated Requests**: Understand how to include the Bearer Token in your API requests to ensure proper authorization. Follow our [example](../User%20Guide/api-testing.md) to seamlessly integrate the authentication process into your application.
 
-### Testing the API:
+<!-- ### Testing the API:
 
-> Before integrating the API into your application, it's crucial to test its functionality. This section guides you through the process of testing API requests, recommending tools like Apache JMeter, and providing sample requests to help you get started quickly.
+> Before integrating the API into your application, it's crucial to test its functionality. This section guides you through the process of testing API requests . recommending tools like Apache JMeter, and providing sample requests to help you get started quickly.
 
 - **API Testing Tools:**
 
   - Explore our recommended tools for testing API requests, ensuring a smooth development and integration process.
 
 - **Sample Requests**:
-  - Accelerate your learning curve by reviewing examples of common API requests. These samples serve as a foundation for fetching data, updating records, and integrating external services into your application.
+  - Accelerate your learning curve by reviewing examples of common API requests. These samples serve as a foundation for fetching data, updating records, and integrating external services into your application. -->
