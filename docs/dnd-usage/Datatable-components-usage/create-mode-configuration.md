@@ -46,6 +46,18 @@ sidebar_position: 1
 - **Placeholder Text**: Use placeholder text to give examples or further instructions.
 - **Pre-filled Default Values**: Set default values for certain fields to save users time.
 
+## Enhance view of Create Form
+
+>  The form view is initially presented in its default layout, as illustrated in the accompanying image.
+
+![Default grid view](../../../static/img/default-grid-view.png)
+
+> To enhance the form view for complex components, you can apply different grid sizes for different fields.
+
+> In the **'Create'** section of the **'Create mode'**, you'll find a column named **'Grid List Column'**. Here, you can select the grid number to adjust the size of different fields in the form. Additionally, in the **'In new line?'** column, you can tick mark the fields that you want to be shown on a new line.
+
+![Configurating Grid View](../../../static/img/create-mode-grid-config.gif)
+
 ## Previewing and Testing
 
 > Before finalizing your create mode configuration, it's essential to preview and test the functionality:
